@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Gd6qwVGuQl8zkY16cBg1Wx1LAJtSameIRo7G13myhfc/edit?usp=sharing](https://docs.google.com/document/d/1Gd6qwVGuQl8zkY16cBg1Wx1LAJtSameIRo7G13myhfc/edit?usp=sharing)
 
-- ⚡ Fun fact **When I was in middle school, I won a second prize in a skating race even after falling down 3 different times.**
+- ⚡ Fun fact **Despite being a complete newbie at my university's hackathon, I won the third prize for my ML app for diagnosing on the basis on symptoms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
