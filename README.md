@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20views&color=0e75b6&style=flat" alt="databoysu" /> </p>
 
-- 🌱 I’m currently learning **C(Programming Language), Python, R, C#, AHK**
+- 🌱 I’m currently learning **Pyhton, R, ML-DS techniques**
 
-- 💬 Ask me about **computer hardware ,git, linux**
+- 💬 Ask me about **computer hardware, windows, data science, EDA for business analysis**
 
 - 📫 How to reach me **anshumanr434@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Gd6qwVGuQl8zkY16cBg1Wx1LAJtSameIRo7G13myhfc/edit?usp=sharing](https://docs.google.com/document/d/1Gd6qwVGuQl8zkY16cBg1Wx1LAJtSameIRo7G13myhfc/edit?usp=sharing)
 
-- ⚡ Fun fact **Despite being a complete newbie at my university's hackathon, I won the third prize for my ML app for diagnosing on the basis on symptoms**
+- ⚡ Fun fact **Despite being a complete newbie at my university's hackathon, I won the third prize for my ML app which outputs treatments and diagnosis based on symptoms of the patient only**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
