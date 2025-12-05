@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **anshumanr434@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Gd6qwVGuQl8zkY16cBg1Wx1LAJtSameIRo7G13myhfc/edit?usp=sharing](https://docs.google.com/document/d/1Gd6qwVGuQl8zkY16cBg1Wx1LAJtSameIRo7G13myhfc/edit?usp=sharing)
 
 - ⚡ Fun fact **Despite being a complete newbie at my university's hackathon, I won the third prize for my ML app which outputs treatments and diagnosis based on symptoms of the patient only**
 
