@@ -27,7 +27,7 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="30%">
+    <td align="left" width="35%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" width="100%" />
     </td>
     <td align="right">
