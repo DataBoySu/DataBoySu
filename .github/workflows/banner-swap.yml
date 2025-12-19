@@ -1,0 +1,59 @@
+name: Swap README banner (3-way: morning/afternoon/night)
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # runs hourly; change as needed
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Optional: force one of morning/afternoon/night"
+        required: false
+        default: ""
+
+jobs:
+  swap:
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Kolkata'               # change to your timezone
+      ASSETS_DIR: 'GitHub_readme/assets'
+      TARGET: 'banner.png'
+      MORNING: 'morning.png'
+      AFTERNOON: 'afternoon.png'
+      NIGHT: 'night.png'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Select image (3-way)
+        env:
+          FORCE: ${{ github.event.inputs.force }}
+        run: |
+          HOUR=$(TZ=$TZ date +'%H')
+          echo "TZ=$TZ hour=$HOUR force=$FORCE"
+          if [ -n "$FORCE" ]; then
+            case "$FORCE" in
+              morning) SRC="$ASSETS_DIR/$MORNING" ;;
+              afternoon) SRC="$ASSETS_DIR/$AFTERNOON" ;;
+              night) SRC="$ASSETS_DIR/$NIGHT" ;;
+              *) echo "Invalid force value: $FORCE"; exit 1 ;;
+            esac
+          else
+            if [ "$HOUR" -ge 0 ] && [ "$HOUR" -lt 8 ]; then
+              SRC="$ASSETS_DIR/$NIGHT"
+            elif [ "$HOUR" -ge 8 ] && [ "$HOUR" -lt 16 ]; then
+              SRC="$ASSETS_DIR/$MORNING"
+            else
+              SRC="$ASSETS_DIR/$AFTERNOON"
+            fi
+          fi
+          cp "$SRC" "$ASSETS_DIR/$TARGET"
+          echo "Copied $SRC -> $ASSETS_DIR/$TARGET"
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "$ASSETS_DIR/$TARGET"
+          git commit -m "chore: update banner (3-way swap)" || echo "no changes to commit"
+          git push

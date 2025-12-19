@@ -1,7 +1,7 @@
-<img src="assets/banner.png" alt="Grass banner" width="100%" />
+<img src="assets/banner.png" alt="banner" width="100%" />
 
 <h1 align="center">Anshuman Singh</h1>
-<h3 align="center">Third Year CS Student</h3>
+<h3 align="center">PROFILE UNDER CONSTRUCTION</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
