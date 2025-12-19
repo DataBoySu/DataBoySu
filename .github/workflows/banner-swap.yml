@@ -1,3 +1,4 @@
+name: Banner Swap (3-way)
 on:
   schedule:
     - cron: '0 * * * *'    # runs hourly; change as needed
