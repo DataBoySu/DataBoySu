@@ -1,5 +1,3 @@
-name: Swap README banner (3-way: morning/afternoon/night)
-
 on:
   schedule:
     - cron: '0 * * * *'    # runs hourly; change as needed
