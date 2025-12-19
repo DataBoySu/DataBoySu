@@ -7,7 +7,7 @@ on:
       force:
         description: "Optional: force one of morning/afternoon/night"
         required: false
-        default: ""
+        default: "afternoon"
 
 jobs:
   swap:
@@ -50,9 +50,32 @@ jobs:
           echo "Copied $SRC -> $ASSETS_DIR/$TARGET"
 
       - name: Commit & push if changed
+        env:
+          FORCE: ${{ github.event.inputs.force }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Banner Bot"
+          git config user.email "banner-bot@users.noreply.github.com"
           git add "$ASSETS_DIR/$TARGET"
-          git commit -m "chore: update banner (3-way swap)" || echo "no changes to commit"
+
+          # recompute hour so commit message reflects actual time if not forced
+          HOUR=$(TZ=$TZ date +'%H')
+
+          if [ -n "$FORCE" ]; then
+            case "$FORCE" in
+              morning) MSG="Good Morning!" ;;
+              afternoon) MSG="Good Afternoon!" ;;
+              night) MSG="Good Night!" ;;
+              *) MSG="Update banner" ;;
+            esac
+          else
+            if [ "$HOUR" -ge 0 ] && [ "$HOUR" -lt 8 ]; then
+              MSG="Good Night!"
+            elif [ "$HOUR" -ge 8 ] && [ "$HOUR" -lt 16 ]; then
+              MSG="Good Morning!"
+            else
+              MSG="Good Afternoon!"
+            fi
+          fi
+
+          git commit -m "$MSG" || echo "no changes to commit"
           git push
