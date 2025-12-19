@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20views&color=0e75b6&style=flat" alt="databoysu" /> </p>
 
-- I’m currently learning **Python, R, ML-DS techniques**
+- I’m currently learning **Python, Maths, ML-DL**
 
-- Ask me about **computer hardware, windows, data science, EDA for business analysis**
+- Talk with me about **computer hardware, Windows Ecosystem, ML Algorithms, Hackathons involving AI**
 
 - How to reach me **<anshumanr434@gmail.com>**
 
