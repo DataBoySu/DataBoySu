@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: 'Asia/Kolkata'               # change to your timezone
-      ASSETS_DIR: 'GitHub_readme/assets'
+      ASSETS_DIR: 'assets'
       TARGET: 'banner.png'
       MORNING: 'morning.png'
       AFTERNOON: 'afternoon.png'
