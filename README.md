@@ -63,15 +63,6 @@ Wish you a good-looking profile README!
 <a href="https://www.hackerrank.com/anshumanr434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshumanr434" height="34" width="40" /></a>
 </p>
 
-## Top Repositories
-
-<a href="https://github.com/DataBoySu/MyGPU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=swift" style="border:6px solid #000;display:block;height:180px;width:100%;max-width:640px;object-fit:cover;" />
-</a>
-<a href="https://github.com/DataBoySu/visualization-playground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=swift" style="border:6px solid #000;display:block;height:180px;width:100%;max-width:640px;object-fit:cover;" />
-</a>
-
 <br>
 
 ## GitHub Stats
