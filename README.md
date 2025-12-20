@@ -77,7 +77,7 @@ Wish you a good-looking profile README!
   </tr>
 </table>
 
-## ### :bar_chart: [Coding time in the last month]
+## Coding time in the last month
 
 <!--START_SECTION:waka-->
 
