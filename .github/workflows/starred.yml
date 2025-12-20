@@ -23,9 +23,15 @@ jobs:
         pip install starred
     - name: get repository name
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+    - name: update repo category by language
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-    - name: update repo category by language
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --token ${GITHUB_TOKEN} --sort language > Su_Stars.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language created by starred'
+    - name: update repo category by topic
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic, created by starred' --topic --topic_limit 500 --filename Su_Stars.md
