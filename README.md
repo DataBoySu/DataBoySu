@@ -48,7 +48,7 @@ Wish you a good-looking profile README!
 
 - Talk with me about **computer hardware, Windows Ecosystem, ML Algorithms, anything involving AI**
 
-- How to reach me **<anshumanr434@gmail.com>**
+- [Projects starred by me](Su_Stars.md)
 
 - Fun fact **In my Third Sem, I broke the highest GPA record for my college getting a whopping 9.92**
 
