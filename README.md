@@ -80,6 +80,7 @@ Wish you a good-looking profile README!
 ## ### :bar_chart: [Coding time in the last month]
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <br>
