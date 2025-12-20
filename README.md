@@ -44,11 +44,11 @@ Wish you a good-looking profile README!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p>
 
+[<img src="assets/starred_text.png">](Su_Stars.md)
+
 - I’m currently learning **Python, Maths, ML-DL**
 
 - Talk with me about **computer hardware, Windows Ecosystem, ML Algorithms, anything involving AI**
-
-- [Projects starred by me](Su_Stars.md)
 
 - Fun fact **In my Third Sem, I broke the highest GPA record for my college getting a whopping 9.92**
 
