@@ -32,7 +32,17 @@ Wish you a good-looking profile README!
 <h1 align="center">Anshuman Singh</h1>
 <h3 align="center">PROFILE UNDER CONSTRUCTION</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <tr>
+    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
+    </td>
+    <td align="right">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p>
 
@@ -65,13 +75,8 @@ Wish you a good-looking profile README!
 </a>
 
 <br>
-<br><br>
 
-<!-- Center the current streak on its own row -->
-<div style="text-align:center;margin:8px 0;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
-</div>
-
+## GitHub Stats
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
