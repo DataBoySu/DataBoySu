@@ -31,7 +31,6 @@ Wish you a good-looking profile README!
 <h1 align="center">Anshuman Singh</h1>
 <h3 align="center">PROFILE UNDER CONSTRUCTION</h3>
 
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
