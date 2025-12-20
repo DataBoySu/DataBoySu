@@ -70,7 +70,7 @@ Wish you a good-looking profile README!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=swift" style="border:6px solid #000;display:block;" />
 </a>
 <a href="https://github.com/DataBoySu/visualization-playground">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=swift" style="border:6px solid #000;display:block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=swift" style="border:6px solid #000;display:block;" height=20%/>
 </a>
 
 <br>
