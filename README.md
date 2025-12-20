@@ -34,15 +34,11 @@ Wish you a good-looking profile README!
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:50%;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox"
-           alt="Quotes"
-           style="display:block;width:100%;max-width:380px;height:220px;object-fit:contain;border:6px solid #000;" />
+    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
     </td>
-    <td align="right" style="border:none;padding:0;margin:0;vertical-align:top;width:50%;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true"
-           alt="Streak"
-           style="display:block;width:100%;max-width:380px;height:220px;object-fit:contain;border:6px solid #000;" />
+    <td align="right">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
     </td>
   </tr>
 </table>
