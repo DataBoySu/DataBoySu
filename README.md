@@ -30,7 +30,7 @@ Wish you a good-looking profile README!
 
 <h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f1f17,100:1a7f5a&text=Hello%20World!%20I'm%20Anshuman&fontColor=9fefc0&textBg=false&animation=fadeIn&section=header&fontAlign=50&fontSize=60" alt="Hi! I am Anshuman">
 
-<img align = center src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+engineering" alt="Research-Driven Engineer" /></h1>
+<img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+engineering" alt="Research-Driven Engineer"/></h1>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
