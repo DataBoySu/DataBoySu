@@ -38,13 +38,19 @@
 <br>
 <br><br>
 
+<!-- Center the current streak on its own row -->
+<div style="text-align:center;margin:8px 0;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
+</div>
+
+<!-- Below that: one row with Top Languages (left) and overall GitHub stats (right) -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="right" width="40%" style="border:none;padding:0;margin:0;">
+    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
     </td>
-    <td align="left" style="border:none;padding:0;margin:0;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" width="100%" style="border:6px solid #000;display:block;" />
+    <td align="right" width="50%" style="border:none;padding:0;margin:0;vertical-align:top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&show_icons=true&theme=swift" alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>
   </tr>
 </table>
