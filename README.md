@@ -3,7 +3,7 @@
 <h1 align="center">Anshuman Singh</h1>
 <h3 align="center">PROFILE UNDER CONSTRUCTION</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20views&color=0e75b6&style=flat" alt="databoysu" /> </p>
 
@@ -27,11 +27,11 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="35%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" width="100%" />
+    <td align="left" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" />
     </td>
     <td align="right">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=synthwave&hide_border=true" alt="Streak" width="100%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" width="100%" />
     </td>
   </tr>
 </table>
