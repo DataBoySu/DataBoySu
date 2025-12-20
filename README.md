@@ -72,7 +72,7 @@ Wish you a good-looking profile README!
   <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
 </div>
 
-<!-- Below that: one row with Top Languages (left) and overall GitHub stats (right) -->
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;">
@@ -83,3 +83,167 @@ Wish you a good-looking profile README!
     </td>
   </tr>
 </table>
+
+<!-- Tech Stack -->
+<details>
+  <summary>
+    <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+  </summary>
+<h3 align="center">Programming</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td align="center" style="border: none;">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<h3 align="center">AI/ML & Data Science</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th align="right" colspan="4"style="color: white;">Libraries & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoWQ1GEOs9ZkkTos1OFuHEfhyr9lgJiRapDw&s" alt="Pandas" width="50" height="50"/><br>Pandas
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="55" height="55" /><br>Keras
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="Scikit-learn" width="80" height="50"/><br>SkLearn
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="Catboost" width="50" height="50"/><br>CatBoost
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="50" height="50"/><br>HF
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://avatars.githubusercontent.com/u/23187665?s=200&v=4" alt="Cupy" width="50" height="50"/><br>Cupy
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
+<h3 align="center">Web Development</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="50" height="50" alt="Streamlit"/>
+        </a>
+        <br>Streamlit
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://avatars.githubusercontent.com/u/156354296?s=48&v=4" width="50" height="50" alt="Flask"/><br>FastAPI
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<h3 align="center">MLOps & DevOps</h3>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/><br>LM Studio
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</details>
