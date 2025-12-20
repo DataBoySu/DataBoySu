@@ -5,7 +5,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20views&color=0e75b6&style=flat" alt="databoysu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p>
 
 - I’m currently learning **Python, Maths, ML-DL**
 
