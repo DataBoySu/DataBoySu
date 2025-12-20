@@ -27,29 +27,15 @@
 
 ## Top Repositories
 
-<!-- Tight responsive 2-column grid: items take equal width (50%) and wrap row-wise. -->
-<!-- Note: GitHub README sanitizes many <style> and pseudo-class rules; hover scale may not work in README view on github.com. The snippet below shows the CSS you'd use on GitHub Pages or any page that accepts <style>. -->
-<!-- Hover snippet (for pages that allow it):
-<style>
-  .repo-item img{transition:transform .18s ease;border:1px solid rgba(0,0,0,0.08);}
-  .repo-item:hover img{transform:scale(1.2);}
-</style>
--->
+<a href="https://github.com/DataBoySu/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=buefy" />
+</a>
+<a href="https://github.com/DataBoySu/visualization-playground">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=buefy" />
+</a>
 
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px;">
-  <div class="repo-item" style="flex:1 1 calc(50% - 4px);max-width:calc(50% - 4px);box-sizing:border-box;padding:2px;">
-    <a href="https://github.com/DataBoySu/github-readme-stats" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=buefy" alt="MyGPU" width="100%" style="border:1px solid rgba(0,0,0,0.06);display:block;transition:transform .18s ease;" />
-    </a>
-  </div>
-  <div class="repo-item" style="flex:1 1 calc(50% - 4px);max-width:calc(50% - 4px);box-sizing:border-box;padding:2px;">
-    <a href="https://github.com/DataBoySu/visualization-playground" style="display:block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=buefy" alt="visualization-playground" width="100%" style="border:1px solid rgba(0,0,0,0.06);display:block;transition:transform .18s ease;" />
-    </a>
-  </div>
-  <!-- Add more repo-item blocks below; each will be 50% width and wrap to the next row automatically. -->
-</div>
-
+<br>
+<br><br>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
