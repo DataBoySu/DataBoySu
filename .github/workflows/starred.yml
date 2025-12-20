@@ -9,10 +9,6 @@ jobs:
   super-stars:
     name: update super-stars
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      REPOSITORY: ${{ env.REPOSITORY_NAME }}
-      USERNAME: ${{ github.repository_owner }}
     steps:
     - uses: actions/checkout@v3
       with:
@@ -27,5 +23,9 @@ jobs:
         pip install starred
     - name: get repository name
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
     - name: update repo category by language
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Super-Stars category by language' --filename Su_Stars.md
