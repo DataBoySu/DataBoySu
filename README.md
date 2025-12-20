@@ -81,6 +81,11 @@ Wish you a good-looking profile README!
 
 <!--START_SECTION:waka-->
 
+```txt
+Markdown   7 mins          🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜   93.20 %
+YAML       0 secs          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.80 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
