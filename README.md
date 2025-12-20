@@ -77,6 +77,12 @@ Wish you a good-looking profile README!
   </tr>
 </table>
 
+## Coding time in the last month
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
 <!-- Tech Stack -->
 <details>
   <summary>
@@ -240,6 +246,3 @@ Wish you a good-looking profile README!
 </table>
 </div>
 </details>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
