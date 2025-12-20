@@ -65,7 +65,7 @@ Wish you a good-looking profile README!
 
 ## Top Repositories
 
-<a href="https://github.com/DataBoySu/github-readme-stats">
+<a href="https://github.com/DataBoySu/MyGPU">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=swift" style="border:6px solid #000;display:block;height:180px;width:100%;max-width:640px;object-fit:cover;" />
 </a>
 <a href="https://github.com/DataBoySu/visualization-playground">
