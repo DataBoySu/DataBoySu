@@ -28,7 +28,8 @@ Wish you a good-looking profile README!
 -->
 <img src="assets/banner.png" alt="banner" width="100%"/>
 
-<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World!%20I'm%20Anshuman&textBg=false&animation=blink&section=header&fontAlign=50&fontSize=60" alt="Hi! I am Anshuman"></h1>
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f1f17,100:1a7f5a&text=Hello%20World!%20I'm%20Anshuman&fontColor=9fefc0&textBg=false&animation=blink&section=header&fontAlign=50&fontSize=60
+" alt="Hi! I am Anshuman"></h1>
 
 <h3 align="center">PROFILE UNDER CONSTRUCTION</h3>
 
