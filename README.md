@@ -34,23 +34,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=buefy" />
 </a>
 
-<br />
-<br />
+<br>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="left" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" />
+    <td align="left" width="40%" style="border:none;padding:0;margin:0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:0;outline:none;display:block;" />
     </td>
-    <td align="right">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" width="100%" />
+    <td align="right" style="border:none;padding:0;margin:0;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" width="100%" style="border:0;outline:none;display:block;" />
     </td>
   </tr>
 </table>
