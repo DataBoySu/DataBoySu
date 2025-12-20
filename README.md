@@ -26,7 +26,6 @@ Wish you a good-looking profile README!
                                    —— Su (https://github.com/DataBoySu)
 
 -->
-
 <img src="assets/banner.png" alt="banner" width="100%"/>
 
 <h1 align="center">Anshuman Singh</h1>
@@ -68,10 +67,10 @@ Wish you a good-looking profile README!
 ## Top Repositories
 
 <a href="https://github.com/DataBoySu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=swift" style="border:6px solid #000;display:block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=swift" style="border:6px solid #000;display:block;" />
 </a>
 <a href="https://github.com/DataBoySu/visualization-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=swift" style="border:6px solid #000;display:block;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=swift" style="border:6px solid #000;display:block;" />
 </a>
 
 <br>
@@ -80,10 +79,10 @@ Wish you a good-looking profile README!
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;">
+    <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
     </td>
-    <td align="right" width="50%" style="border:none;padding:0;margin:0;vertical-align:top;">
+    <td align="right" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&show_icons=true&theme=swift" alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>
   </tr>
