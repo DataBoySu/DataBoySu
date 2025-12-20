@@ -9,7 +9,7 @@
 
 - I’m currently learning **Python, Maths, ML-DL**
 
-- Talk with me about **computer hardware, Windows Ecosystem, ML Algorithms, Hackathons involving AI**
+- Talk with me about **computer hardware, Windows Ecosystem, ML Algorithms, anything involving AI**
 
 - How to reach me **<anshumanr434@gmail.com>**
 
