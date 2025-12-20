@@ -34,11 +34,15 @@ Wish you a good-looking profile README!
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
-    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
+    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:50%;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox"
+           alt="Quotes"
+           style="display:block;width:100%;max-width:380px;height:220px;object-fit:contain;border:6px solid #000;" />
     </td>
-    <td align="right">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
+    <td align="right" style="border:none;padding:0;margin:0;vertical-align:top;width:50%;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true"
+           alt="Streak"
+           style="display:block;width:100%;max-width:380px;height:220px;object-fit:contain;border:6px solid #000;" />
     </td>
   </tr>
 </table>
@@ -58,7 +62,7 @@ Wish you a good-looking profile README!
 <a href="https://linkedin.com/in/anshumansingh2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumansingh2023" height="30" width="40" /></a>
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/oneinrandomforest.bsky.social)
-<a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter" alt="Twitter" height="27" style="border-radius:0;display:inline-block;" /></a>
+<a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter" alt="Twitter" height="30" style="border-radius:0;display:inline-block;" /></a>
 
 <a href="https://kaggle.com/anshumansingh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshumansingh001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshumanr434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshumanr434" height="34" width="40" /></a>
