@@ -28,10 +28,10 @@
 ## Top Repositories
 
 <a href="https://github.com/DataBoySu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=MyGPU&theme=buefy" style="border:6px solid #000;display:block;" />
 </a>
 <a href="https://github.com/DataBoySu/visualization-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DataBoySu&repo=visualization-playground&theme=buefy" style="border:6px solid #000;display:block;" />
 </a>
 
 <br>
