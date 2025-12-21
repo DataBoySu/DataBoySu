@@ -45,22 +45,10 @@ Wish you a good-looking profile README!
 </table>
 </h1>
 
-### <img src="assets/About.webp">
+#### <img src="assets/About.webp">
 
----
+<img src="assets/whomi.svg">
 
-```bash
-$ whoami
-
-focus:    AI, Maths, CS
-mode:     learning by building and breaking
-tools:    python, vscode, books
-fact:     highest gpa of uni cohort (sem 3: 9.92/10)
-
-notes:
-  # CS Undergrad '27 Minor in AIML
-  # depth >> breadth approach
-```
 [Resume](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
 ### Connect
