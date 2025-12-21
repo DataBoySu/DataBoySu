@@ -52,17 +52,15 @@ Wish you a good-looking profile README!
 ```text
 $ whoami
 
-focus:    AI × Infrastructure × Security
+focus:    AI, Maths, CS
 mode:     learning by building and breaking
-tools:    python, math, ml/dl
-signals:  highest gpa in cohort (sem 3)
+tools:    python, vscode, books
+fact:     highest gpa in cohort (sem 3)
 
 notes:
-  - interested in systems under constraint
-  - prefers understanding failure modes over demos
+  - CS Undergrad '27 Minor in AIML
+  - prefers depth-first approach
 ```
-
-- Fun fact **In my Third Sem, I broke the highest GPA record for my college getting a whopping 9.92**
 
 ### Connect
 
