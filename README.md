@@ -26,44 +26,47 @@ Wish you a good-looking profile README!
                                    —— Su (https://github.com/DataBoySu)
 
 -->
-<h1 align="center"><a href="https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="assets/banner.png" alt="banner" width="100%"/></a></h1>
+<p align="center"><a href="https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="assets/banner.png" alt="banner" width="100%"/></a></p>
 
-<h1 align="center"><img src="assets\github-header-banner.png" alt="Hi! I am Anshuman" width=100%>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p></h1><h1 align = "center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></h1>
+<p align="center"><img src="assets/github-header-banner.png" alt="Hi! I am Anshuman" width="100%"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p>
+<p align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></p>
 
-<h1 align="center">
+---
+
 <table width="100%">
   <tr>
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
     </td>
     <td align="right" style="border:none;padding:0;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
     </td>
   </tr>
 </table>
-</h1>
+
+<br>
+
+---
 
 # <img src="assets/About.webp">
 
 <details>
   <summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" />
   </summary>
-<center>
-<img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" align="center">
+  <p align="center">
+    <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" />
+  </p>
 </details>
-</center>
 <details>
-
   <summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" />
   </summary>
-<center>
-  <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" align="center">
+  <p align="center">
+    <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" />
+  </p>
 </details>
-</center>
 
 [<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
@@ -76,7 +79,7 @@ Wish you a good-looking profile README!
 </p>
 <br>
 
-[<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
+[<img src="assets/starred_text.png"><img src="assets/See_here.webp" width="130"/>](Su_Stars.md)
 
 
 ---
@@ -133,8 +136,10 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Tech Stack -->
 <details>
   <summary>
-  <center>
-    <h1 align="center"><img src="assets/techstackroll.webp" width="50px" height="50px"><img src="assets/tech_stac.webp" width=230 alt="Tech Stack"> </h1></center>
+    <p align="center">
+      <img src="assets/techstackroll.webp" width="50" height="50" alt=""/>
+      <img src="assets/tech_stac.webp" width="230" alt="Tech Stack"/>
+    </p>
   </summary>
 <h3 align="center">Programming</h3>
 <div align="center">
@@ -298,6 +303,6 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-  [<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height=5>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+  [<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="10"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 </p>
