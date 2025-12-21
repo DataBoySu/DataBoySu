@@ -84,17 +84,15 @@ notes:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
     </td>
     <td align="right" width="50%">
-      <img src="
-      https://github-readme-stats.vercel.app/api
-      ?username=DataBoySu
-      &hide=issues,stars
-      &theme=swift" 
+      <img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>
   </tr>
 </table>
 
-## <img src="assets/code_time.webp">
+---
+
+## <img src="assets/code_time.webp" width="80%">
 
 <!--START_SECTION:waka-->
 <details>
@@ -124,6 +122,8 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 </details>
 <br>
+
+---
 
 <!-- Tech Stack -->
 <details>
