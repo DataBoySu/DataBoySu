@@ -46,29 +46,19 @@ Wish you a good-looking profile README!
 </h1>
 
 # <img src="assets/About.webp">
+<img src="assets/whomi.svg">
 
-<img src="assets/whomi.svg" align="center">
 
+[<img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking&fontSize=65">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
----
-### Connect with Me
-
-<p align="left">
-  <a href="https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking&fontSize=65">
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://bsky.app/profile/oneinrandomforest.bsky.social"><img src="https://img.shields.io/badge/Bluesky-oneinrandomforest-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/badge/X-Void_The_Null-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
+  <a href="https://kaggle.com/anshumansingh001"><img src="https://img.shields.io/badge/Kaggle-anshumansingh001-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.hackerrank.com/anshumanr434"><img src="https://img.shields.io/badge/HackerRank-anshumanr434-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
-
-
-
-
-- LinkedIn: https://linkedin.com/in/anshumansingh2023  
-- Bluesky: https://bsky.app/profile/oneinrandomforest.bsky.social  
-- X: https://x.com/Void_The_Null  
-- Kaggle: https://kaggle.com/anshumansingh001  
-- HackerRank: https://www.hackerrank.com/anshumanr434
-
-
+<br>
 
 [<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
