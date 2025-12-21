@@ -45,23 +45,33 @@ Wish you a good-looking profile README!
 </table>
 </h1>
 
+### <img src="assets/About.webp">
 
-- I’m currently learning **Python, Maths, ML-DL**
+---
 
-- Talk with me about **computer hardware, Windows Ecosystem, ML Algorithms, anything involving AI**
+```text
+$ whoami
+
+focus:    AI × Infrastructure × Security
+mode:     learning by building and breaking
+tools:    python, math, ml/dl
+signals:  highest gpa in cohort (sem 3)
+
+notes:
+  - interested in systems under constraint
+  - prefers understanding failure modes over demos
+```
 
 - Fun fact **In my Third Sem, I broke the highest GPA record for my college getting a whopping 9.92**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshumansingh2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumansingh2023" height="30" width="40" /></a>
+### Connect
 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/oneinrandomforest.bsky.social)
-<a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter" alt="Twitter" height="35"/></a>
+- LinkedIn: https://linkedin.com/in/anshumansingh2023  
+- Bluesky: https://bsky.app/profile/oneinrandomforest.bsky.social  
+- X: https://x.com/Void_The_Null  
+- Kaggle: https://kaggle.com/anshumansingh001  
+- HackerRank: https://www.hackerrank.com/anshumanr434
 
-<a href="https://kaggle.com/anshumansingh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshumansingh001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshumanr434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshumanr434" height="34" width="40" /></a>
-</p>
 
 <br>
 
