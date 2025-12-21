@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 23 * * 0'
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          COMMIT_MESSAGE: Update Waka_api stats
+          COMMIT_MESSAGE: Update Waka stats
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE: "True"

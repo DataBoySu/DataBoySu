@@ -4,7 +4,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 0 * * 0'
+  - cron: '0 0 1 * *'
 jobs:
   super-stars:
     name: update super-stars
@@ -28,4 +28,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic, created by starred' --topic --topic_limit 500 --filename Su_Stars.md
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Super_Stars Repos Updated!' --topic --topic_limit 500 --filename Su_Stars.md
