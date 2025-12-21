@@ -137,7 +137,7 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th align="right" colspan="4"style="color: white;">Libraries & Frameworks</th>
+      <th align="center" colspan="4"style="color: white;">Libraries & Frameworks</th>
     </tr>
   </thead>
   <tbody>
