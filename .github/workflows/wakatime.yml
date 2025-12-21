@@ -22,7 +22,7 @@ jobs:
           COMMIT_MESSAGE: Update Waka_api stats
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE: "True"
           SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: 3
