@@ -45,13 +45,16 @@ Wish you a good-looking profile README!
 </table>
 </h1>
 
-#### <img src="assets/About.webp">
-
+# <img src="assets/About.webp">
+<center>
 <img src="assets/whomi.svg">
+</center>
 
-[Resume](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
+---
+### Connect with Me
 
-### Connect
+[<img align="left" src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
+
 
 - LinkedIn: https://linkedin.com/in/anshumansingh2023  
 - Bluesky: https://bsky.app/profile/oneinrandomforest.bsky.social  
@@ -59,7 +62,7 @@ Wish you a good-looking profile README!
 - Kaggle: https://kaggle.com/anshumansingh001  
 - HackerRank: https://www.hackerrank.com/anshumanr434
 
----
+
 
 [<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
