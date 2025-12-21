@@ -61,7 +61,7 @@ Wish you a good-looking profile README!
 </details>
 </center>
 
-[<img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking&fontSize=65">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
+[<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Resume&animation=blinking&fontSize=50">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
 <p align="center">
   <a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
