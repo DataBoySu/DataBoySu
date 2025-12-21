@@ -43,7 +43,7 @@ Wish you a good-looking profile README!
   </tr>
 </table>
 
-[<img src="assets/starred_text.png">](Su_Stars.md)
+[<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
 - I’m currently learning **Python, Maths, ML-DL**
 
@@ -80,9 +80,13 @@ Wish you a good-looking profile README!
 ## Coding time in the last month
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144.6%20thousand%20lines%20of%20code-blue)
+<details>
+<summary>
 
-**I'm a Night 🦉** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144.6%20thousand%20lines%20of%20code-blue)
+</summary>
+
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                48 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.78 % 
@@ -91,8 +95,7 @@ Wish you a good-looking profile README!
 🌙 Night                  19 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.23 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -100,10 +103,9 @@ Markdown                 7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.80 % 
 ```
 
-
  Last Updated on 21/12/2025 06:35:11 UTC
 <!--END_SECTION:waka-->
-
+</details>
 <br>
 
 <!-- Tech Stack -->
@@ -269,3 +271,7 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </table>
 </div>
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
