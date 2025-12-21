@@ -53,7 +53,13 @@ Wish you a good-looking profile README!
 ---
 ### Connect with Me
 
-[<img align="left" src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
+<p align="left">
+  <a href="https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking&fontSize=65">
+  </a>
+</p>
+
+
 
 
 - LinkedIn: https://linkedin.com/in/anshumansingh2023  
@@ -66,7 +72,9 @@ Wish you a good-looking profile README!
 
 [<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
+
 ---
+
 ## <img src="assets/git_stats.webp">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
