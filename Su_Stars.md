@@ -396,6 +396,7 @@
 
 ## others 
 
+- [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [andrewwoan/sooahs-room-folio](https://github.com/andrewwoan/sooahs-room-folio) - A super duper duper cute room portfolio 💖💖💖
 - [hkproj/100-days-of-gpu](https://github.com/hkproj/100-days-of-gpu) - 
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
