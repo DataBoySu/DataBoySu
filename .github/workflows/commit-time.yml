@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: jamesgeorge007/github-activity-readme@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Update commit time stats"
+          GH_USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: "Update commit time stats"
