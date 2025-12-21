@@ -46,7 +46,7 @@ Wish you a good-looking profile README!
 </h1>
 
 # <img src="assets/About.webp">
-<img src="assets/whomi.svg">
+<img align="center" src="assets/whomi.svg">
 
 
 [<img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking&fontSize=65">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
@@ -117,7 +117,8 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Tech Stack -->
 <details>
   <summary>
-    <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><img src="assets/tech_stac.webp" width=230 alt="Tech Stack"> </h1>
+  <center>
+    <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><img src="assets/tech_stac.webp" width=230 alt="Tech Stack"> </h1></center>
   </summary>
 <h3 align="center">Programming</h3>
 <div align="center">
