@@ -38,7 +38,7 @@ Wish you a good-looking profile README!
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
     </td>
-    <td align="right" style="border:none;padding:2;">
+    <td align="right" style="border:none;padding:0;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
     </td>
   </tr>
