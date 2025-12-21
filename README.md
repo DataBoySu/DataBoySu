@@ -26,13 +26,14 @@ Wish you a good-looking profile README!
                                    —— Su (https://github.com/DataBoySu)
 
 -->
-<h1><img src="assets/banner.png" alt="banner" width="100%"/></h1>
+<h1 align="center"><img src="assets/banner.png" alt="banner" width="100%"/></h1>
 
 <h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f1f17,100:1a7f5a&text=Hello%20World!%20I'm%20Anshuman&fontColor=9fefc0&textBg=false&animation=fadeIn&section=header&fontAlign=50&fontSize=60" alt="Hi! I am Anshuman">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p></h1><h1 align = "center">
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F750&width=570&lines=AI+%C3%97+Infrastructure+%C3%97+Security;Building+scalable+AI+systems;Research-driven+Engineering" alt="Research-Driven Engineering"/></h1>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<h1 align="center">
+<table width="100%">
   <tr>
     <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
@@ -42,6 +43,7 @@ Wish you a good-looking profile README!
     </td>
   </tr>
 </table>
+</h1>
 
 [<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
@@ -275,3 +277,8 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<center>
+
+[🎶 Background music while working: Write This Down (Instrumental)](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+</center>
