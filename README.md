@@ -49,18 +49,19 @@ Wish you a good-looking profile README!
 
 ---
 
-```text
+```bash
 $ whoami
 
 focus:    AI, Maths, CS
 mode:     learning by building and breaking
 tools:    python, vscode, books
-fact:     highest gpa in cohort (sem 3)
+fact:     highest gpa of uni cohort (sem 3: 9.92/10)
 
 notes:
-  - CS Undergrad '27 Minor in AIML
-  - depth >> breadth approach
+  # CS Undergrad '27 Minor in AIML
+  # depth >> breadth approach
 ```
+[Resume](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
 ### Connect
 
