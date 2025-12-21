@@ -73,11 +73,10 @@ notes:
 - HackerRank: https://www.hackerrank.com/anshumanr434
 
 
-<br>
-
 [<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
-## GitHub Stats
+---
+## <img src="assets/git_stats.webp">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>
@@ -90,7 +89,7 @@ notes:
   </tr>
 </table>
 
-## Coding time in the last month
+## <img src="assets/code_time.webp">
 
 <!--START_SECTION:waka-->
 <details>
@@ -124,7 +123,7 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Tech Stack -->
 <details>
   <summary>
-    <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+    <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"><img src="assets/tech_stac.webp" width=230 alt="Tech Stack"> </h1>
   </summary>
 <h3 align="center">Programming</h3>
 <div align="center">
