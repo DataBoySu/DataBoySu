@@ -59,7 +59,7 @@ fact:     highest gpa in cohort (sem 3)
 
 notes:
   - CS Undergrad '27 Minor in AIML
-  - prefers depth-first approach
+  - depth >> breadth approach
 ```
 
 ### Connect
@@ -70,6 +70,7 @@ notes:
 - Kaggle: https://kaggle.com/anshumansingh001  
 - HackerRank: https://www.hackerrank.com/anshumanr434
 
+---
 
 [<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
