@@ -45,7 +45,6 @@ Wish you a good-looking profile README!
 </table>
 </h1>
 
-[<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
 - I’m currently learning **Python, Maths, ML-DL**
 
@@ -65,6 +64,8 @@ Wish you a good-looking profile README!
 </p>
 
 <br>
+
+[<img src="assets/starred_text.png"><img src="assets\See_here.webp" width=130>](Su_Stars.md)
 
 ## GitHub Stats
 
