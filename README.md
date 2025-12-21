@@ -49,7 +49,7 @@ Wish you a good-looking profile README!
 
 <details>
   <summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" />
   </summary>
 <center>
 <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" align="center">
@@ -58,7 +58,7 @@ Wish you a good-looking profile README!
 <details>
 
   <summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" />
   </summary>
 <center>
   <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" align="center">
