@@ -278,7 +278,7 @@ YAML                     0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<center>
+<p align="center">
 
 [🎶 Background music while working: Write This Down (Instrumental)](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-</center>
+</p>
