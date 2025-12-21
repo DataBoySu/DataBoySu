@@ -50,14 +50,14 @@ Wish you a good-looking profile README!
 <details>
   <summary>Summary (Short)</summary>
 
-<img src="assets/whomi_short.svg" alt="Who I am (short)" width="100%">
+<img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" align="center">
 </details>
 
 <details>
 
   <summary>Summary (Long)</summary>
 
-  <img src="assets/whomi_long.svg" alt="Who I am (long)" width="100%">
+  <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" align="center">
 </details>
 
 [<img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=gradient&text=Resume&animation=blinking&fontSize=65">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
