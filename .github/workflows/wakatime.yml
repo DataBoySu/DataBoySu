@@ -13,6 +13,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           COMMIT_MESSAGE: Update Waka_api stats
+          #IGNORED_LANGUAGES: YAML JSON TOML
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
