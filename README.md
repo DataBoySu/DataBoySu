@@ -26,7 +26,7 @@ Wish you a good-looking profile README!
                                    —— Su (https://github.com/DataBoySu)
 
 -->
-<h1 align="center"><img src="assets/banner.png" alt="banner" width="100%"/></h1>
+<h1 align="center"><a href="https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="assets/banner.png" alt="banner" width="100%"/></a></h1>
 
 <h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f1f17,100:1a7f5a&text=Hello%20World!%20I'm%20Anshuman&fontColor=9fefc0&textBg=false&animation=fadeIn&section=header&fontAlign=50&fontSize=60" alt="Hi! I am Anshuman">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=databoysu&label=Profile%20Views&color=green&style=for-the-badge&abbreviated=true" alt="databoysu"/> </p></h1><h1 align = "center">
@@ -97,7 +97,7 @@ Wish you a good-looking profile README!
 🌙 Night                  19 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.23 % 
 ```
 
-📊 **This Week I Spent My Time On**
+**This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
