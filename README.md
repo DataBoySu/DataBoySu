@@ -46,9 +46,9 @@ Wish you a good-looking profile README!
 </h1>
 
 # <img src="assets/About.webp">
-<center>
-<img src="assets/whomi.svg">
-</center>
+
+<img src="assets/whomi.svg" align="center">
+
 
 ---
 ### Connect with Me
