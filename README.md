@@ -80,13 +80,15 @@ Wish you a good-looking profile README!
 ## Coding time in the last month
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 207 Contributions in the Year 2025
+> 🏆 209 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -97,10 +99,10 @@ Wish you a good-looking profile README!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44 commits          █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-🌆 Daytime                58 commits          ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌃 Evening                104 commits         ████████████░░░░░░░░░░░░░   46.22 % 
-🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌞 Morning                46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌆 Daytime                58 commits          ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+🌃 Evening                104 commits         ███████████░░░░░░░░░░░░░░   45.81 % 
+🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 
@@ -115,7 +117,7 @@ YAML                     0 secs              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 21/12/2025 06:13:09 UTC
+ Last Updated on 21/12/2025 06:21:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:commit-time-->
