@@ -43,7 +43,7 @@ Wish you a good-looking profile README!
 
 <details>
   <summary>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="40%"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="400"/>
   </summary>
   <p align="center">
     <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" />
