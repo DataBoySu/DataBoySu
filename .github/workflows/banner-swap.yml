@@ -1,11 +1,11 @@
-name: Banner Swap (3-way)
+name: Banner Swap (2-way)
 on:
   schedule:
-    - cron: '0 */5 * * *'    # runs every 5 hours; change as needed
+    - cron: '0 4,16 * * *'    # runs at 04:00 and 16:00 daily (two 12-hour swaps)
   workflow_dispatch:
     inputs:
       force:
-        description: "Optional: force one of morning/afternoon/night"
+        description: "Optional: force one of morning/afternoon"
         required: false
         default: "afternoon"
 
@@ -18,13 +18,12 @@ jobs:
       TARGET: 'banner.png'
       MORNING: 'morning.png'
       AFTERNOON: 'afternoon.png'
-      NIGHT: 'night.png'
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Select image (3-way)
+      - name: Select image (2-way)
         env:
           FORCE: ${{ github.event.inputs.force }}
         run: |
@@ -34,13 +33,11 @@ jobs:
             case "$FORCE" in
               morning) SRC="$ASSETS_DIR/$MORNING" ;;
               afternoon) SRC="$ASSETS_DIR/$AFTERNOON" ;;
-              night) SRC="$ASSETS_DIR/$NIGHT" ;;
               *) echo "Invalid force value: $FORCE"; exit 1 ;;
             esac
           else
-            if [ "$HOUR" -ge 0 ] && [ "$HOUR" -lt 8 ]; then
-              SRC="$ASSETS_DIR/$NIGHT"
-            elif [ "$HOUR" -ge 8 ] && [ "$HOUR" -lt 16 ]; then
+            # Two 12-hour periods: Morning 04:00-15:59, Afternoon 16:00-03:59
+            if [ "$HOUR" -ge 4 ] && [ "$HOUR" -lt 16 ]; then
               SRC="$ASSETS_DIR/$MORNING"
             else
               SRC="$ASSETS_DIR/$AFTERNOON"
@@ -64,13 +61,10 @@ jobs:
             case "$FORCE" in
               morning) MSG="Good Morning!" ;;
               afternoon) MSG="Good Afternoon!" ;;
-              night) MSG="Good Night!" ;;
               *) MSG="Update banner" ;;
             esac
           else
-            if [ "$HOUR" -ge 0 ] && [ "$HOUR" -lt 8 ]; then
-              MSG="Good Night!"
-            elif [ "$HOUR" -ge 8 ] && [ "$HOUR" -lt 16 ]; then
+            if [ "$HOUR" -ge 4 ] && [ "$HOUR" -lt 16 ]; then
               MSG="Good Morning!"
             else
               MSG="Good Afternoon!"
