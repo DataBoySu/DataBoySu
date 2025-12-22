@@ -46,11 +46,11 @@ Wish you a good-looking profile README!
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" />
   </summary>
   <p align="center">
-    <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90" />
+    <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" />
   </p></details><details>  <summary>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" />
   </summary>  <p align="center">
-    <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80" />
+    <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" />
   </p></details>
 
 [<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
