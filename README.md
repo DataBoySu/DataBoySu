@@ -74,6 +74,10 @@ Wish you a good-looking profile README!
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>  </tr></table>
 
+<!-- my-badges start -->
+
+<!-- my-badges end -->
+
 ---
 
 <details>
