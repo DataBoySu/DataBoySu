@@ -34,9 +34,7 @@ Wish you a good-looking profile README!
 
 <table width="100%">  <tr>    <td align="left" style="border:none;padding:0;margin:0;vertical-align:top;width:40%;">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" style="display:block;width:100%;max-width:640px;border:6px solid #000;" />
-    </td>
-    <td align="right" style="border:none;padding:0;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
+    </td>    <td align="right" style="border:none;padding:0;">      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
     </td>  </tr></table><br>
 
 ---
@@ -49,19 +47,15 @@ Wish you a good-looking profile README!
   </summary>
   <p align="center">
     <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" />
-  </p>
-</details><details>
-  <summary>
+  </p></details><details>  <summary>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" />
-  </summary>
-  <p align="center">
+  </summary>  <p align="center">
     <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" />
   </p></details>
 
 [<img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50">](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
-<p align="center">
-  <a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p align="center">  <a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-anshumansingh2023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://bsky.app/profile/oneinrandomforest.bsky.social"><img src="https://img.shields.io/badge/Bluesky-oneinrandomforest-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
   <a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/badge/X-Void_The_Null-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
   <a href="https://kaggle.com/anshumansingh001"><img src="https://img.shields.io/badge/Kaggle-anshumansingh001-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -74,10 +68,8 @@ Wish you a good-looking profile README!
 
 ## <img src="assets/git_stats.webp">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
-    </td>
-    <td align="right" width="50%">
+  <tr>    <td align="left">      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
+    </td>    <td align="right" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>  </tr></table>
