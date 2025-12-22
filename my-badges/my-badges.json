@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a9898ebe1c4593cc7f3bc7d607c029a47e5fab3f\"><strong>a</strong>9898ebe1c4593cc7f3bc7d607c029a47e5fab3f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/DataBoySu/MyGPU/commit/abe27a06e752ee15f68d70fa96bd116a8742bc03\"><strong>ab</strong>e27a06e752ee15f68d70fa96bd116a8742bc03</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/Resume/commit/2f84a22430cb3e9d17e46cd49e98f8155853aa89\">2f84a22</a>\n- <a href=\"https://github.com/DataBoySu/Resume/commit/025d40429780425fb9973f24c5d1f2208f74d63c\">025d404</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"#7\".",
+    "body": "My favorite commit message words are:\n\n1. #7 (used 29 times)\n2. merge (used 21 times)\n3. #5 (used 21 times)\n4. #4 (used 20 times)\n5. add (used 19 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/visualization-playground/commit/5527ed98f57e873fe8bc20f07f489080b9c5d1c3\">5527ed9</a>: fixing fps p1\n- <a href=\"https://github.com/DataBoySu/visualization-playground/commit/3865734908dc7cae0fb886ba633a8057871804aa\">3865734</a>: fixing fps p1\n- <a href=\"https://github.com/DataBoySu/visualization-playground/commit/d397b68bdca8485d6a9734543c31cc82e52fa060\">d397b68</a>: fixing fps p1",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/f9620739181afa0238885a6f97fe62ab3db0408b\">f962073</a>: fix\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/acd963cecb5855baefd0d2886233df34f3199c3e\">acd963c</a>: fix\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/22ebe969c6b40f45c62d4b083c848065428c1b91\">22ebe96</a>: fix\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a978ffa1199a402253d0352332b21538fd21d657\">a978ffa</a>: fix",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/ToyCompiler/commit/84fb5068dc54fb0fa436129cc427d7133d58de75\">84fb506</a>\n- <a href=\"https://github.com/DataBoySu/ToyCompiler/commit/4f9e03710172ee85e97ed7a8ede1ebd6a848fc62\">4f9e037</a>\n- <a href=\"https://github.com/DataBoySu/ToyCompiler/commit/165fe6df0a35697c5a97d23789cb4b4498eaf9b0\">165fe6d</a>\n- <a href=\"https://github.com/DataBoySu/ToyCompiler/commit/063ba892ff088885797d77a4f1736f9a684c3fef\">063ba89</a>\n- <a href=\"https://github.com/DataBoySu/ToyCompiler/commit/e41030d97c3874e6a7a5ad68fab622879907c5dd\">e41030d</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/7e9c8eb19f18c808be2b9586ed5a6af30e6107bb\">7e9c8eb</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/76913bb295cf15445ee0aa2d58b539e6dc72cbf9\">76913bb</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/febe73cb049c3c47e23cad24cf951cf587903447\">febe73c</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/9a761a89645f09a1537a50deca35a07570075615\">9a761a8</a>\n- <a href=\"https://github.com/DataBoySu/AIO-github-profile-readme/commit/c05d6624fef507e604ed90795048906c94825774\">c05d662</a>\n- <a href=\"https://github.com/DataBoySu/AIO-github-profile-readme/commit/cb4fe1e1f6c719468dafd7c52b8188f29067c51f\">cb4fe1e</a>\n- <a href=\"https://github.com/DataBoySu/Resume/commit/6514d124e5e79d7793da4e1ef1871fddab506ac4\">6514d12</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
