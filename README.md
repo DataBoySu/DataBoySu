@@ -68,7 +68,7 @@ Wish you a good-looking profile README!
 ## <img src="assets/git_stats.webp">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    <td align="left">      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
-    </td>    <td align="right" width="50%">
+    </td>    <td align="right" width="">
       <img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>  </tr></table>
