@@ -74,7 +74,7 @@ Wish you a good-looking profile README!
     </td>  </tr></table>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="metrics.plugin.languages.recent.svg" alt="Metrics">
 </picture>
 
 <details><summary>🔽</summary><br><p align="center">
