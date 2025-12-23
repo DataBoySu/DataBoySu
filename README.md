@@ -94,8 +94,9 @@ Wish you a good-looking profile README!
 
 ---
 
-## <img src="assets/code_time.webp" width="80%">
-
+<picture>
+<img src="assets/code_time.webp" width="80%" alt="Code Time">
+</picture>
 <!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-144.6%20thousand%20lines%20of%20code-blue)
