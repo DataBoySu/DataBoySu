@@ -40,15 +40,14 @@ Wish you a good-looking profile README!
 ---
 
 # <picture><img src="assets/About.webp"></picture>
-
-<picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="60%"/></picture>
 <details>
-  <summary>🔽</summary>
+  <summary><picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="60%"/></picture>
+</summary>
   <p align="center">
     <picture><img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" /></picture>
-  </p></details>
+  </p></details><details> <summary>
 <picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" width="70%"/></picture>
-  <details> <summary>🔽</summary> <p align="center">
+  </summary> <p align="center">
     <picture><img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" /></picture>
   </p></details>
 
@@ -126,12 +125,12 @@ Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 <!-- Tech Stack -->
-<p align="center">      <picture>
-<img src="assets/techstackroll.webp" width="60">
+<details><summary>
+<p align="center"><picture><img src="assets/techstackroll.webp" width="60">
       <img src="assets/tech_stac.webp" width="290" alt="Tech Stack"/></picture>    </p>
 
 ---
-<details><summary>🔽</summary>
+</summary>
 
 <h3 align="center">Programming</h3>
 <div align="center">
