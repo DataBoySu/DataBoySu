@@ -37,8 +37,6 @@ Wish you a good-looking profile README!
     </td>    <td align="right" style="border:none;padding:0;">      <img src="https://nirzak-streak-stats.vercel.app/?user=DataBoySu&theme=swift&hide_border=true" alt="Streak" style="border:6px solid #000;display:inline-block;" />
     </td>  </tr></table><br>
 
----
-
 # <img src="assets/About.webp">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="60%"/>
