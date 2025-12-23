@@ -73,6 +73,10 @@ Wish you a good-looking profile README!
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>  </tr></table>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <details><summary>🔽</summary><br><p align="center">
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
