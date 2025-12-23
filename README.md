@@ -69,13 +69,10 @@ Wish you a good-looking profile README!
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    <td align="left">      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
     </td>    <td align="right" width="">
-      <img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
-      alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
-    </td>  </tr></table>
-
-<picture>
-  <img src="metrics.plugin.languages.recent.svg" alt="Metrics">
+    <picture>
+  <img src="assets/recent_lang.svg" alt="Metrics" style="border:6px solid #000;display:block;" />>
 </picture>
+    </td>  </tr></table>
 
 <details><summary>🔽</summary><br><p align="center">
 <!-- my-badges start -->
@@ -89,13 +86,15 @@ Wish you a good-looking profile README!
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
+<img src="https://github-readme-stats.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
+      alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
 </details>
 <br></p>
 
 ---
 
 <picture>
-<img src="assets/code_time.webp" width="80%" alt="Code Time">
+<img src="assets/code_time.webp" width="80%" alt="Code Time" style="border:6px solid #1e5a3cff;display:block;">
 </picture>
 <!--START_SECTION:waka-->
 
