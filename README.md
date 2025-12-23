@@ -69,7 +69,7 @@ Wish you a good-looking profile README!
   <tr>    <td align="left">      <picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></picture>
     </td>    <td align="right" width="">
     <picture>
-  <img src="assets/recent_lang.svg" alt="Metrics" style="border:6px solid #000;display:block;" />>
+  <img src="assets/recent_lang.svg" alt="Metrics" style="border:6px solid #000;display:block;" />
 </picture>
     </td>  </tr></table>
 
