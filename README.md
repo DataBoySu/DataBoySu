@@ -38,18 +38,18 @@ Wish you a good-looking profile README!
     </td>  </tr></table><br>
 
 ---
+<br>
 
 # <img src="assets/About.webp">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="60%"/>
 <details>
-  <summary>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Short)" alt="Summary (Short)" width="400"/>
-  </summary>
+  <summary>🔽</summary>
   <p align="center">
     <img src="assets/whomi_short.svg" alt="Who I am (short)" width="90%" />
-  </p></details><details>  <summary>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" width="50%"/>
-  </summary>  <p align="center">
+  </p></details>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&vCenter=true&width=435&lines=Summary+(Long)" alt="Summary (Long)" width="70%"/>
+  <details> <summary>🔽</summary> <p align="center">
     <img src="assets/whomi_long.svg" alt="Who I am (long)" width="80%" />
   </p></details>
 
@@ -74,7 +74,7 @@ Wish you a good-looking profile README!
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td>  </tr></table>
 
-<details><summary></summary>
+<details><summary>🔽</summary><br><p align="center">
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
@@ -87,15 +87,14 @@ Wish you a good-looking profile README!
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <!-- my-badges end -->
 </details>
+<br></p>
 
 ---
 
-<details>
-<summary>
-
 ## <img src="assets/code_time.webp" width="80%">
 
-</summary>
+<details>
+<summary>🔽</summary>
 
 <!--START_SECTION:waka-->
 
@@ -128,8 +127,13 @@ Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 <!-- Tech Stack -->
-<details>  <summary>    <p align="center">      <img src="assets/techstackroll.webp" width="50" height="50" alt=""/>
-      <img src="assets/tech_stac.webp" width="230" alt="Tech Stack"/>    </p>  </summary>
+<p align="center">      
+<img src="assets/techstackroll.webp" width="60">
+      <img src="assets/tech_stac.webp" width="290" alt="Tech Stack"/>    </p>
+
+---
+<details><summary>🔽</summary>
+
 <h3 align="center">Programming</h3>
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
