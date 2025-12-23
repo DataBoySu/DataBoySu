@@ -94,7 +94,7 @@ Wish you a good-looking profile README!
 ---
 
 <picture>
-<img src="assets/code_time.webp" width="80%" alt="Code Time" style="border:6px solid #1e5a3cff;display:block;">
+<img src="assets/code_time.webp" width="80%" alt="Code Time">
 </picture>
 <!--START_SECTION:waka-->
 
@@ -127,9 +127,9 @@ Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 <!-- Tech Stack -->
-<p align="center">      
+<p align="center">      <picture>
 <img src="assets/techstackroll.webp" width="60">
-      <img src="assets/tech_stac.webp" width="290" alt="Tech Stack"/>    </p>
+      <img src="assets/tech_stac.webp" width="290" alt="Tech Stack"/></picture>    </p>
 
 ---
 <details><summary>🔽</summary>
