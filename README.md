@@ -204,7 +204,7 @@ Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
       </td>    </tr>  </tbody></table></div><div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>    </tr>  </thead>    <tr>      <td align="center" style="border: none;">
-        <img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/><br>LM Studio      </td>    </tr>  </tbody></table></div></details></picture>
+        <img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/><br>LM Studio      </td>    </tr>  </tbody></table></div></details>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></picture>
 
   [<img src="assets/WriteThisDown(Instrumental).webp" width="100%" height="5"/>](https://soundcloud.com/soulchefmusic/write-this-down-instrumental?in=imtorm/sets/aight&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
