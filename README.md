@@ -38,7 +38,6 @@ Wish you a good-looking profile README!
     </td>  </tr></table><br>
 
 ---
-<br>
 
 # <img src="assets/About.webp">
 
