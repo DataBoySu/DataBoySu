@@ -60,7 +60,7 @@ Wish you a good-looking profile README!
   <a href="https://kaggle.com/anshumansingh001"><img src="https://img.shields.io/badge/Kaggle-anshumansingh001-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.hackerrank.com/anshumanr434"><img src="https://img.shields.io/badge/HackerRank-anshumanr434-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a></p><br>
 
-[<img src="assets/starred_text.png"><img src="assets/See_here.webp" width="130"/>](Su_Stars.md)
+[<img src="assets/starred_text.png"><img src="assets/See_here.webp" width="130"/>](assets/Su_Stars.md)
 
 
 ---
