@@ -26,7 +26,7 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LINES_OF_CODE: "True"
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 1
           
 
       # - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
