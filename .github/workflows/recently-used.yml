@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "30 18 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -20,9 +20,8 @@ jobs:
           filename: assets/recent_lang.svg
           template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, metadata
+          base: ""
           plugin_languages: yes
-          plugin_languages_colors: rainbow
           plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_ignored: >-
             less, dockerfile, makefile, qmake, lex, cmake, plaintext, ini, gnuplot
@@ -34,11 +33,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/detail_lang.svg
+          plugin_languages_colors: rainbow
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+            less, dockerfile, makefile, qmake, lex, cmake,    gnuplot
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
