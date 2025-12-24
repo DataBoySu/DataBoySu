@@ -53,7 +53,7 @@ Wish you a good-looking profile README!
 
 [<picture><img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50"/></picture>](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
-<p align="center">  <a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p align="center"><a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://bsky.app/profile/oneinrandomforest.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky"/></a>
   <a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://kaggle.com/anshumansingh001"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -61,14 +61,13 @@ Wish you a good-looking profile README!
 
 [<picture><img src="assets/starred_text.png"/></picture><picture><img src="assets/See_here.webp" width="130"/></picture>](assets/Su_Stars.md)
 
-
 ---
 
 ## <picture><img src="assets/git_stats.webp"/></picture>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    <td align="left">      <picture><img src="assets/detail_lang.svg" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></picture>
     </td>    <td align="right" width="50%">
-    <picture>_
+    <picture>
       <img src="assets/yearly_details.svg" alt="Recent languages" style="border:6px solid #000;display:block;" />
     </picture>
     </td>  </tr></table>
