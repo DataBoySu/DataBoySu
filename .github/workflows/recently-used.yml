@@ -20,7 +20,7 @@ jobs:
           filename: assets/yearly_details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: terminal
-          base: ""
+          base: metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -35,4 +35,4 @@ jobs:
           plugin_languages_ignored: >-
             less, dockerfile, makefile, qmake, lex, cmake,    gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 5
+          plugin_languages_limit: 6
