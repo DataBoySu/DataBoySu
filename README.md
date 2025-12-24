@@ -65,8 +65,8 @@ Wish you a good-looking profile README!
 
 ## <picture><img src="assets/git_stats.webp"/></picture>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>    <td align="left">      <picture><img src="assets/detail_lang.svg" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></picture>
-    </td>    <td align="right" width="50%">
+  <tr>    <td align="left">      <picture><img src="assets/detail_lang.svg" alt="Top languages" style="border:6px solid #000;display:block;" /></picture>
+    </td>    <td align="right" width="60%">
     <picture>
       <img src="assets/yearly_details.svg" alt="Recent languages" style="border:6px solid #000;display:block;" />
     </picture>
