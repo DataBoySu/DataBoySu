@@ -17,23 +17,17 @@ jobs:
       - name: Most used (recent)
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/recent_lang.svg
+          filename: assets/yearly_details.svg
           template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
-          plugin_languages: yes
-          plugin_languages_recent_categories: data, markup, programming, prose
-          plugin_languages_ignored: >-
-            less, dockerfile, makefile, qmake, lex, cmake, plaintext, ini, gnuplot
-          plugin_languages_sections: recently-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 5
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
           filename: assets/detail_lang.svg
-          plugin_languages_colors: rainbow
           template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
