@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/DataBoySu/DataBoySu/commit/76913bb295cf15445ee0aa2d58b539e6dc72cbf9">76913bb</a>
-- <a href="https://github.com/DataBoySu/DataBoySu/commit/febe73cb049c3c47e23cad24cf951cf587903447">febe73c</a>
-- <a href="https://github.com/DataBoySu/DataBoySu/commit/9a761a89645f09a1537a50deca35a07570075615">9a761a8</a>
-- <a href="https://github.com/DataBoySu/AIO-github-profile-readme/commit/c05d6624fef507e604ed90795048906c94825774">c05d662</a>
-- <a href="https://github.com/DataBoySu/AIO-github-profile-readme/commit/cb4fe1e1f6c719468dafd7c52b8188f29067c51f">cb4fe1e</a>
-- <a href="https://github.com/DataBoySu/Resume/commit/6514d124e5e79d7793da4e1ef1871fddab506ac4">6514d12</a>
+- <a href="https://github.com/DataBoySu/waka-readme-stats/commit/c175bd7363ca591f1961d4da58bc4990207f3af9">c175bd7</a>
+- <a href="https://github.com/DataBoySu/databoysu-readme-translator/commit/e80f5489d3358de46f35d54df559b8ff3bd76a07">e80f548</a>
+- <a href="https://github.com/DataBoySu/databoysu-readme-translator/commit/da2a16a3f400ca017b6f18be5ccad8e97f36ce11">da2a16a</a>
+- <a href="https://github.com/DataBoySu/DeepCool-AK620-Replacement-Software/commit/c4d16282964fb85f2d5f3c31c6591f526ddfef8d">c4d1628</a>
+- <a href="https://github.com/DataBoySu/DeepCool-AK620-Replacement-Software/commit/93fd3204db36bda04f07f6742a595412f2a42853">93fd320</a>
+- <a href="https://github.com/DataBoySu/DeepCool-AK620-Replacement-Software/commit/455afe59daad6fa9c33ec853c3de4be31a65d0f4">455afe5</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
