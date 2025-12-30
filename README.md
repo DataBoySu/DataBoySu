@@ -53,7 +53,9 @@ Wish you a good-looking profile README!
 
 [<picture><img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Resume&animation=blinking&fontSize=50"/></picture>](https://raw.githubusercontent.com/DataBoySu/Resume/main/su_resume.pdf)
 
-<p align="center"><a href="https://linkedin.com/in/anshumansingh2023"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p align="center"><a href="https://www.reddit.com/user/Pretend-Pangolin-846/">
+  <img src="https://img.shields.io/badge/Reddit-Pretend--Pangolin--846-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Profile" />
+</a>
   <a href="https://bsky.app/profile/oneinrandomforest.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky"/></a>
   <a href="https://x.com/Void_The_Null"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://kaggle.com/anshumansingh001"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
