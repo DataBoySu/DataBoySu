@@ -94,7 +94,7 @@ Wish you a good-looking profile README!
   </table>
   <div align="center">
     <picture>
-      <img src="assets/profile-night-rainbow.svg" alt="Recent languages" width="50%" />
+      <img src="assets/profile-3d-contrib/profile-night-rainbow.svg" alt="My year" width="50%" />
     </picture>
 </div>
 
