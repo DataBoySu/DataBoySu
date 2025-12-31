@@ -83,11 +83,19 @@ Wish you a good-looking profile README!
 ## <picture><img src="assets/git_stats.webp"/></picture>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>    <td align="left">      <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" />
-    </td>    <td align="right" width="50%">
+  <tr>    <td align="left" width="50%">      <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></td>    
+    <td align="right">
       <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
-    </td>  </tr></table>
+    </td></tr></table><p align="center">
+<table>
+    <tr>  
+    <td align="center">
+    <picture>
+      <img src="assets/yearly_details.svg" alt="Recent languages" width="90%" />
+    </picture>
+    </td></tr></table>
+</p>
 
 <!-- <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    <td align="left">      <picture><img src="assets/detail_lang.svg" alt="Top languages" style="border:6px solid #000;display:block;" width="100%"/></picture>
@@ -95,13 +103,13 @@ Wish you a good-looking profile README!
     <picture>
       <img src="assets/yearly_details.svg" alt="Recent languages" width="100%" />
     </picture>
-    </td>  </tr></table> -->
+    </td> </tr></table> -->
 
 <details><summary>Badges 🔽</summary><br><p align="center">
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
+<a href="my-badges/delorean.md"><img src="https://my-badges.github. io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;fix&quot;." title="My favorite word is &quot;fix&quot;." width="64"></a>
 <a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
 <a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
