@@ -89,7 +89,7 @@ Wish you a good-looking profile README!
 
 <h3 align="center">Programming</h3>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Languages</th>
@@ -100,7 +100,7 @@ Wish you a good-looking profile README!
         <td align="center" style="border: none;">
             <picture><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/></picture><br>Python      </td>    </tr>  </tbody></table></div><h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th align="center" colspan="4"style="color: white;">Libraries & Frameworks</th>
@@ -122,7 +122,7 @@ Wish you a good-looking profile README!
         <picture><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="HuggingFace" width="50" height="50"/></picture><br>HF      </td>      <td align="center" style="border: none;">
         <picture><img src="https://avatars.githubusercontent.com/u/23187665?s=200&v=4" alt="Cupy" width="50" height="50"/></picture><br>Cupy
       </td>    </tr>  </tbody> </table></div><h3 align="center">Web Development</h3><div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>
       <th colspan="8" align="center" style="color: white;">Frontend</th>
     </tr>  </thead>  <tbody>    <tr>      <td align="center" style="border: none;">
@@ -136,7 +136,7 @@ Wish you a good-looking profile README!
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
           <picture><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/></picture>
         </a>        <br>CSS      </td>    </tr>  </tbody></table></div><div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="4" align="center" style="color: white;">Backend</th>
     </tr>  </thead>  <tbody>    <tr>      <td align="center" style="border: none;">
         <picture><img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/></picture><br>Flask
@@ -144,18 +144,18 @@ Wish you a good-looking profile README!
         <picture><img src="https://avatars.githubusercontent.com/u/156354296?s=48&v=4" width="50" height="50" alt="Flask"/></picture><br>FastAPI
       </td>    </tr>  </tbody></table></div>
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="4" align="center" style="color: white;">Database</th>
     </tr>  </thead>  <tbody>    <tr>
       <td align="center" style="border: none;">
         <picture><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/></picture><br>MySQL
       </td>    </tr>  </tbody></table></div><h3 align="center">MLOps & DevOps</h3><div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="4" align="center" style="color: white;">Containerization</th>    </tr>  </thead>  <tbody>    <tr>
       <td align="center" style="border: none;">
         <picture><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/></picture><br>Docker
       </td>    </tr>  </tbody></table></div><div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="margin: 0 auto; max-width: 800px; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>    <tr>      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>    </tr>  </thead>    <tr>      <td align="center" style="border: none;">
         <picture><img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" alt="LMStudio" width="50" height="60"/></picture><br>LM Studio      </td>    </tr>  </tbody></table></div></details></picture>
 
