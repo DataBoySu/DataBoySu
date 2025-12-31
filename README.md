@@ -87,7 +87,7 @@ Wish you a good-looking profile README!
     <td align="right">
       <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
-    </td></tr></table><p align="center">
+    </td></tr></table><div align="center">
 <table>
     <tr>  
     <td align="center">
@@ -95,7 +95,7 @@ Wish you a good-looking profile README!
       <img src="assets/yearly_details.svg" alt="Recent languages" width="90%" />
     </picture>
     </td></tr></table>
-</p>
+</div>
 
 <!-- <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    <td align="left">      <picture><img src="assets/detail_lang.svg" alt="Top languages" style="border:6px solid #000;display:block;" width="100%"/></picture>
