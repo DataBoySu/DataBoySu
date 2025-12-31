@@ -89,7 +89,7 @@ Wish you a good-looking profile README!
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
     </td></tr></table><div align="center">
     <picture>
-      <img src="assets/yearly_details.svg" alt="Recent languages" width="30%" />
+      <img src="assets/yearly_details.svg" alt="Recent languages" width="50%" />
     </picture>
 </div>
 
