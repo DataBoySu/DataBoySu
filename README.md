@@ -83,13 +83,18 @@ Wish you a good-looking profile README!
 ## <picture><img src="assets/git_stats.webp"/></picture>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr>    <td align="left" width="50%">      <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></td>    
+  <tr>    
+  <td align="left" width="50%">      
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></td>    
     <td align="right">
       <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&hide=issues,stars&theme=swift"
       alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
-    </td></tr></table><div align="center">
+    </td>
+    </tr>
+  </table>
+  <div align="center">
     <picture>
-      <img src="assets/yearly_details.svg" alt="Recent languages" width="50%" />
+      <img src="assets/profile-night-rainbow.svg" alt="Recent languages" width="50%" />
     </picture>
 </div>
 
