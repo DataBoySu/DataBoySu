@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 78 times)\n2. merge (used 41 times)\n3. branch (used 30 times)\n4. 'main' (used 29 times)\n5. #7 (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 80 times)\n2. merge (used 48 times)\n3. branch (used 36 times)\n4. v2 (used 35 times)\n5. readme (used 35 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,14 +52,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/7e9c8eb19f18c808be2b9586ed5a6af30e6107bb\">7e9c8eb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/d39ed4663beb4764e6d01786505c09c5c434290a\">d39ed46</a>\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/60a1868e444c06e76696bd4a7d7206a3599d5ff6\">60a1868</a>\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/beece6bbb9bf395ff040a08283fa6b4bc84d0752\">beece6b</a>\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/7e9c8eb19f18c808be2b9586ed5a6af30e6107bb\">7e9c8eb</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/c175bd7363ca591f1961d4da58bc4990207f3af9\">c175bd7</a>\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/e80f5489d3358de46f35d54df559b8ff3bd76a07\">e80f548</a>\n- <a href=\"https://github.com/DataBoySu/databoysu-readme-translator/commit/da2a16a3f400ca017b6f18be5ccad8e97f36ce11\">da2a16a</a>\n- <a href=\"https://github.com/DataBoySu/DeepCool-AK620-Replacement-Software/commit/c4d16282964fb85f2d5f3c31c6591f526ddfef8d\">c4d1628</a>\n- <a href=\"https://github.com/DataBoySu/DeepCool-AK620-Replacement-Software/commit/93fd3204db36bda04f07f6742a595412f2a42853\">93fd320</a>\n- <a href=\"https://github.com/DataBoySu/DeepCool-AK620-Replacement-Software/commit/455afe59daad6fa9c33ec853c3de4be31a65d0f4\">455afe5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/a9076a104495dffe0e58c2b176e9525c76d7d669\">a9076a1</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/31c8655bafd50a069199ac3cde54b6bcdf9bf6b2\">31c8655</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/1a42c22ec932305bc22ee929668119e1f1fecf10\">1a42c22</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/2fa1da8247ffa9f9f289253ccbd9cb39c382dd60\">2fa1da8</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/57048ce340ecab86302415e4bb1240a1730312da\">57048ce</a>\n- <a href=\"https://github.com/DataBoySu/DataBoySu/commit/419a445fc31fb5314fddd70a5b88ced8760588ea\">419a445</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -80,42 +80,42 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/MyGPU/commit/401171e8c9999fdcfbaa9a6788ef58d05b5f2911\">401171e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/DataBoySu/waka-readme-stats/commit/275d6c1e6df2d938723b19e9a13f03605e8f7488\">275d6c1</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3822</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "stars-500",
     "tier": 2,
     "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3822</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-500.png"
   },
   {
     "id": "stars-1000",
     "tier": 3,
     "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3822</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-1000.png"
   },
   {
     "id": "stars-2000",
     "tier": 4,
     "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3822</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/anmol098/waka-readme-stats\">anmol098/waka-readme-stats: ★3825</a>\n* <a href=\"https://github.com/DataBoySu/MyGPU\">DataBoySu/MyGPU: ★4</a>\n* <a href=\"https://github.com/DataBoySu/databoysu-readme-translator\">DataBoySu/databoysu-readme-translator: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-2000.png"
   },
   {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/anuraghazra/github-readme-stats/issues/4712\">16 👍</a>",
+    "body": "* <a href=\"https://github.com/anuraghazra/github-readme-stats/issues/4712\">17 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {

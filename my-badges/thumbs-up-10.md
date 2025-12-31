@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/anuraghazra/github-readme-stats/issues/4712">16 👍</a>
+* <a href="https://github.com/anuraghazra/github-readme-stats/issues/4712">17 👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
