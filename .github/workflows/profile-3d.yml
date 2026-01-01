@@ -45,9 +45,29 @@ jobs:
             git commit -m "chore: Daily Updates"
           fi
 
+      - name: Stash local changes (if any)
+        run: |
+          # stash any leftover changes to allow rebase (includes untracked files)
+          git status --porcelain | tee status.txt
+          if [ -s status.txt ]; then
+            git stash push --include-untracked -m "ci: autostash before rebase" || true
+          else
+            echo "Working tree clean"
+          fi
+
       - name: Pull remote and rebase
-        run: git pull --rebase --autostash origin main
+        run: |
+          git pull --rebase origin main
 
       - name: Push
         run: |
-          git push origin HEAD:main
+          git push origin HEAD:main || true
+
+      - name: Pop stashed changes (if any)
+        run: |
+          # restore stashed changes if we stashed earlier
+          if git stash list | grep -q "ci: autostash before rebase"; then
+            git stash pop --index || git stash pop || true
+          else
+            echo "No autostash found"
+          fi
