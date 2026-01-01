@@ -23,15 +23,31 @@ jobs:
         run: |
           mkdir -p assets
           mv profile-3d-contrib assets/ || (rm -rf assets/profile-3d-contrib && mv profile-3d-contrib assets/)
-      - name: Pull latest changes
+      - name: Configure git
         run: |
-          git add .
-          git pull --rebase
-      - name: Commit & Push
+          git config user.name Banner-Bot
+          git config user.email banner-bot@users.noreply.github.com
+
+      - name: Stage generated assets and removals
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git push
+          # stage generated output
+          git add assets/profile-3d-contrib || true
+          # if the generator left a source directory in repo root, remove and stage that deletion
+          git rm -r --ignore-unmatch profile-3d-contrib || true
+          # show what will be committed for debugging
+          git status --porcelain
+
+      - name: Commit generated changes (if any)
+        run: |
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+          else
+            git commit -m "chore: Daily Updates"
           fi
+
+      - name: Pull remote and rebase
+        run: git pull --rebase --autostash origin main
+
+      - name: Push
+        run: |
+          git push origin HEAD:main
