@@ -22,7 +22,7 @@ jobs:
       - name: Move SVG to assets
         run: |
           mkdir -p assets
-          mv profile-3d-contrib assets/
+          mv profile-3d-contrib assets/ || (rm -rf assets/profile-3d-contrib && mv profile-3d-contrib assets/)
       - name: Pull latest changes
         run: git pull --rebase
       - name: Commit & Push
