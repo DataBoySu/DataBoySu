@@ -19,6 +19,7 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [beginner-project](#beginner-project)
+- [c](#c)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
@@ -190,8 +191,13 @@
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
+## c 
+
+- [JLW-7/wally-c](https://github.com/JLW-7/wally-c) - Cute little voice assistant built on ESP32 to help users with reminders, productivity, and daily conversations.
+
 ## chatbot 
 
+- [JLW-7/wally-c](https://github.com/JLW-7/wally-c) - Cute little voice assistant built on ESP32 to help users with reminders, productivity, and daily conversations.
 - [GradientHQ/parallax](https://github.com/GradientHQ/parallax) - Parallax is a distributed model serving framework that lets you build your own AI cluster anywhere
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 
@@ -550,6 +556,7 @@
 
 ## python 
 
+- [JLW-7/wally-c](https://github.com/JLW-7/wally-c) - Cute little voice assistant built on ESP32 to help users with reminders, productivity, and daily conversations.
 - [DataBoySu/databoysu-readme-translator](https://github.com/DataBoySu/databoysu-readme-translator) - Auto-translate your README.md using a local AI model directly in GitHub Actions. Includes smart chunking, hallucination checks, and auto-generated navigation bars.
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [DataBoySu/MyGPU](https://github.com/DataBoySu/MyGPU) - Simple real-time monitoring tool for your local GPU setup.
