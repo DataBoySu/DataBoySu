@@ -175,7 +175,7 @@ Wish you a good-looking profile README!
   </table>
   <div align="center">
     <picture>
-      <img src="assets/profile-3d-contrib/profile-night-rainbow.svg" alt="My year(s)" width="90%" />
+      <img src="assets/profile-night-rainbow.svg" alt="My year(s)" width="90%" />
     </picture>
 </div>
 
