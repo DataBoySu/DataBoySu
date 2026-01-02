@@ -11,33 +11,24 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: DataBoySu/github-profile-3d-contrib@test
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: settings.json
-          YEAR: "2025"
-      - name: Move SVG to assets
-        run: |
-          mkdir -p assets
-          mv profile-3d-contrib assets/ || (rm -rf assets/profile-3d-contrib && mv profile-3d-contrib assets/)
+          OUTPUT_PATH: assets/profile-3d-contrib
+          CALENDAR_START_DATE: 2025-10-31
+
       - name: Configure git
         run: |
           git config user.name Banner-Bot
           git config user.email banner-bot@users.noreply.github.com
-
-      - name: Stage generated assets and removals
+      - name: Stage generated assets
         run: |
-          # stage generated output
           git add assets/profile-3d-contrib || true
-          # if the generator left a source directory in repo root, remove and stage that deletion
-          git rm -r --ignore-unmatch profile-3d-contrib || true
-          # show what will be committed for debugging
           git status --porcelain
-
       - name: Commit generated changes (if any)
         run: |
           if git diff --cached --quiet; then
@@ -45,8 +36,6 @@ jobs:
           else
             git commit -m "chore: Daily Updates"
           fi
-
-      - name: Force-push generated updates (limited to generated files)
+      - name: Force-push generated updates
         run: |
-          # Push only the committed generated changes; use --force-with-lease to reduce risk
           git push --force-with-lease origin HEAD:main
