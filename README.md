@@ -163,17 +163,17 @@ Wish you a good-looking profile README!
 
 ## <picture><img src="assets/git_stats.webp"/></picture>
 
+  <div align="center">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
   <tr>    
-  <td align="left" width="50%">      
-  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%" style="border:6px solid #000;display:block;" /></td>    
+  <td align="left" width="47%">      
+  <img src="https://readme-stats-peach-gamma.vercel.app/api/top-langs/?username=DataBoySu&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>    
     <td align="right">
       <img src="https://readme-stats-peach-gamma.vercel.app/api?username=DataBoySu&hide=stars&theme=swift"
-      alt="GitHub stats" width="100%" style="border:6px solid #000;display:block;" />
+      alt="GitHub stats" width="100%"/>
     </td>
     </tr>
   </table>
-  <div align="center">
     <picture>
       <img src="assets/profile-night-rainbow.svg" alt="My year(s)" width="90%" />
     </picture>
