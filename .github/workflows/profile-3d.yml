@@ -27,7 +27,7 @@ jobs:
           git config user.email banner-bot@users.noreply.github.com
       - name: Stage generated assets
         run: |
-          git add assets/profile-3d-contrib || true
+          git add assets/ || true
           git status --porcelain
       - name: Commit generated changes (if any)
         run: |
