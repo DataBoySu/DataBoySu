@@ -38,4 +38,6 @@ jobs:
           fi
       - name: Force-push generated updates
         run: |
-          git push --force-with-lease origin HEAD:main
+          git fetch origin
+          git rebase origin/main
+          git push --force-with-lease origin HEAD:main  
