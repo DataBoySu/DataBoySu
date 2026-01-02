@@ -18,7 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: settings.json
-          OUTPUT_PATH: assets/profile-3d-contrib
+          OUTPUT_PATH: assets/
           CALENDAR_START_DATE: 2025-10-31
 
       - name: Configure git
