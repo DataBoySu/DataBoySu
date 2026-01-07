@@ -17,6 +17,8 @@ how to use it.
 Only when you know what you are copying should you paste it. So, again,
 please DO NOT copy this and create your profile based on it.
 
+I recommend forks, and smart-work, not blind copy-paste.
+
 What's more, you can find other awesome profile READMEs at
 https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
 could be a profile README that fits you better than this one.
