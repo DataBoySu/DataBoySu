@@ -16,15 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - name: Verify GitHub token and user
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-        run: |
-          echo "Checking GitHub GraphQL for user $USERNAME"
-          response=$(curl -s -H "Authorization: bearer $GITHUB_TOKEN" -X POST -d '{"query":"query($login:String!){ user(login:$login){ login id } }","variables":{"login":"'"$USERNAME"'"}}' https://api.github.com/graphql)
-          echo "GraphQL response: $response"
-          echo "$response" | jq . || true
       - uses: DataBoySu/github-profile-3d-contrib@test
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
