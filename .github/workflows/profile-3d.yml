@@ -18,8 +18,8 @@ jobs:
       - uses: actions/checkout@v5
       - uses: DataBoySu/github-profile-3d-contrib@test
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: databoysu
           SETTING_JSON: settings.json
           OUTPUT_PATH: assets/
           CALENDAR_START_DATE: 2025-01-01
