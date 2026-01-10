@@ -22,7 +22,6 @@ jobs:
           USERNAME: DataBoySu
           SETTING_JSON: settings.json
           OUTPUT_PATH: assets/
-          CALENDAR_START_DATE: 2025-01-01
 
       - name: Configure git
         run: |
@@ -31,16 +30,12 @@ jobs:
       - name: Stage generated assets
         run: |
           git add assets/ || true
-          git status --porcelain
-      - name: Commit generated changes (if any)
-        run: |
           if git diff --cached --quiet; then
             echo "No generated changes to commit"
-          else
-            git commit -m "chore: Daily Updates"
+            exit 0
           fi
-      - name: Force-push generated updates
-        run: |
+
+          git commit -m "chore: update 3d contrib"
           git fetch origin
           git rebase origin/main
           git push --force-with-lease origin HEAD:main  
