@@ -22,7 +22,7 @@ jobs:
           USERNAME: DataBoySu
           SETTING_JSON: settings.json
           OUTPUT_PATH: assets/
-          CALENDAR_START_DATE: 2025-01-01
+          CALENDAR_START_DATE: '2025-01-01'
 
       - name: Configure git
         run: |
