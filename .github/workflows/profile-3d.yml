@@ -19,7 +19,7 @@ jobs:
       - uses: DataBoySu/github-profile-3d-contrib@test
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: databoysu
+          USERNAME: DataBoySu
           SETTING_JSON: settings.json
           OUTPUT_PATH: assets/
           CALENDAR_START_DATE: 2025-01-01
