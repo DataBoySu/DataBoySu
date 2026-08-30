@@ -227,15 +227,15 @@ Wish you a good-looking profile README!
 </picture></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.50%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌆 Daytime                1779 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
-🌃 Evening                2231 commits        ███████████░░░░░░░░░░░░░░   44.52 % 
-🌙 Night                  467 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+🌞 Morning                555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+🌆 Daytime                1802 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌃 Evening                2264 commits        ███████████░░░░░░░░░░░░░░   44.32 % 
+🌙 Night                  487 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 ```
 
 
@@ -243,11 +243,15 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.37 % 
+TeX                      2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+JavaScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Git Config               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 
- Last Updated on 23/08/2026 20:14:45 UTC
+ Last Updated on 30/08/2026 22:28:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
