@@ -34,6 +34,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -67,6 +68,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
@@ -152,6 +154,7 @@
 - [pentesting](#pentesting)
 - [phaser](#phaser)
 - [php](#php)
+- [portfolio](#portfolio)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -240,14 +243,17 @@
 
 ## agent-skills 
 
+- [scasella/claude-dynamic-workflows-codex](https://github.com/scasella/claude-dynamic-workflows-codex) - Run Claude Code dynamic workflows on a local Codex (GPT) backend, plus an interactive run viewer
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [wednesday-solutions/ai-agent-skills](https://github.com/wednesday-solutions/ai-agent-skills) - Pre-configured agent skills for Vibe Coded projects. These skills provide AI coding assistants (Claude Code, Cursor, etc.) with specific guidelines for code quality and design standards.
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 
 ## agents 
 
+- [scasella/claude-dynamic-workflows-codex](https://github.com/scasella/claude-dynamic-workflows-codex) - Run Claude Code dynamic workflows on a local Codex (GPT) backend, plus an interactive run viewer
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -263,10 +269,12 @@
 
 ## ai 
 
+- [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free AI with your ChatGPT account
 - [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) - Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
@@ -292,7 +300,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -320,6 +328,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [LiuMengxuan04/shushu-internship-tool](https://github.com/LiuMengxuan04/shushu-internship-tool) - 把岗位描述变项目，把项目变简历，把简历变面试。
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [AIEngineerX/BagsWorld](https://github.com/AIEngineerX/BagsWorld) - 17 agents, 17 roles, one economy — a living agent world on Solana
 - [gtausa197-svg/-Project-Nord-Spiking-Neural-Network-Language-Model](https://github.com/gtausa197-svg/-Project-Nord-Spiking-Neural-Network-Language-Model) - The first pure SNN language model trained from scratch with a fully original architecture. 618M parameters • 93% sparsity • Runs on phone • Online learning via STDP • $260 total training cost
 - [pocketpaw/pocketpaw](https://github.com/pocketpaw/pocketpaw) - Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
@@ -402,12 +411,13 @@
 ## awesome 
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## awesome-list 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [hesamsheikh/super-open-intelligence-book](https://github.com/hesamsheikh/super-open-intelligence-book) - 📓 A collection of generative AI open-source repositories that are actively being developed. If you are looking to build a solid profile and land interview, find the repo you like and start shipping.
@@ -454,6 +464,7 @@
 
 ## chatgpt 
 
+- [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free AI with your ChatGPT account
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -474,6 +485,7 @@
 
 ## claude 
 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -482,7 +494,7 @@
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -490,6 +502,8 @@
 
 ## claude-code 
 
+- [scasella/claude-dynamic-workflows-codex](https://github.com/scasella/claude-dynamic-workflows-codex) - Run Claude Code dynamic workflows on a local Codex (GPT) backend, plus an interactive run viewer
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 - [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) - Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
@@ -500,12 +514,17 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [wednesday-solutions/ai-agent-skills](https://github.com/wednesday-solutions/ai-agent-skills) - Pre-configured agent skills for Vibe Coded projects. These skills provide AI coding assistants (Claude Code, Cursor, etc.) with specific guidelines for code quality and design standards.
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [alchemiststudiosDOTai/tunacode](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 TunaCode  AI CLI coding agent with safe git branches, rich tools & multi-LLM support.
+
+## claude-skills 
+
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 
 ## cli 
 
@@ -540,7 +559,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## compiler 
 
@@ -647,6 +666,7 @@
 
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
+- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor.
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [zaina-ml/ml_forge](https://github.com/zaina-ml/ml_forge) - A visual-based graph node editor for training computer vision models.
 - [skforecast/skforecast](https://github.com/skforecast/skforecast) - Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models
@@ -682,6 +702,7 @@
 
 ## developer-tools 
 
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -718,6 +739,7 @@
 
 ## documentation 
 
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [solusops/databoysu-readme-translator](https://github.com/solusops/databoysu-readme-translator) - Auto-translate your README.md into 20+ languages directly in GitHub Actions for 100% Local translation without needing any APIs! Includes smart chunking, hallucination checks, and auto-generated navig
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -726,6 +748,10 @@
 ## dotnet 
 
 - [SnapXL/SnapX](https://github.com/SnapXL/SnapX) - SnapX is a free, open-source, cross-platform tool that lets you capture or record any area of your screen and instantly share it with a single keypress. Upload images, videos, text, and more to multip
+
+## dsh-plugin 
+
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 
 ## education 
 
@@ -757,7 +783,7 @@
 
 ## facebook 
 
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
 
 ## fastapi 
 
@@ -765,7 +791,7 @@
 
 ## finance 
 
-- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 
 ## firefox 
 
@@ -828,6 +854,7 @@
 
 ## generative-ai 
 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [darkshapes/negate](https://github.com/darkshapes/negate) - slop shall not pass: critical analysis of origin detection
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for 30+ generative ai
@@ -843,6 +870,7 @@
 ## gis 
 
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to
 - [yashveeeeeeer/india-geodata](https://github.com/yashveeeeeeer/india-geodata) - Download India's open GIS data — district boundaries, electoral maps, census geometries, forest cover, nightlights, shapefiles, GeoJSON, Parquet. Free and openly licensed.
 
 ## git 
@@ -965,7 +993,7 @@
 
 ## html5 
 
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## http 
 
@@ -1064,9 +1092,13 @@
 
 ## llm 
 
+- [solusops/SISTER](https://github.com/solusops/SISTER) - Research code and data companion for SISTER, a study of incremental instruction delivery in language-model creative writing.
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
+- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor.
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 - [ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion) - [𝗜𝗖𝗠𝗟 𝟮𝟬𝟮𝟲] Dispersion loss counteracts embedding condensation and improves generalization in small language models
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
@@ -1089,11 +1121,11 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [p-e-w/sorcery](https://github.com/p-e-w/sorcery) - The future of AI roleplay
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -1154,7 +1186,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 - [kmeanskaran/stock-agent-ops](https://github.com/kmeanskaran/stock-agent-ops) - Designing end-to-end weekly stock report generation using LSTM and Agentic AI. Deploying on AWS with MLOps practices.
-- [QWED-AI/qwed-verification](https://github.com/QWED-AI/qwed-verification) - A deterministic verification layer for AI systems.  QWED verifies AI outputs using mathematics, symbolic reasoning, and formal methods (Z3, SMT, SymPy), creating an auditable trust boundary for agenti
+- [QWED-AI/qwed-verification](https://github.com/QWED-AI/qwed-verification) - Open-source AI verification infrastructure for deterministic verification of LLM outputs, tool calls, code, schemas, and agent state before production execution.
 - [speedyapply/2027-AI-College-Jobs](https://github.com/speedyapply/2027-AI-College-Jobs) - 2027 AI/ML internship & new graduate job list updated daily
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
@@ -1179,6 +1211,7 @@
 ## mcp 
 
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1237,12 +1270,12 @@
 
 ## nlp 
 
+- [solusops/SISTER](https://github.com/solusops/SISTER) - Research code and data companion for SISTER, a study of incremental instruction delivery in language-model creative writing.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
-- [QWED-AI/qwed-verification](https://github.com/QWED-AI/qwed-verification) - A deterministic verification layer for AI systems.  QWED verifies AI outputs using mathematics, symbolic reasoning, and formal methods (Z3, SMT, SymPy), creating an auditable trust boundary for agenti
 
 ## no-code 
 
@@ -1293,6 +1326,8 @@
 
 ## openai 
 
+- [scasella/claude-dynamic-workflows-codex](https://github.com/scasella/claude-dynamic-workflows-codex) - Run Claude Code dynamic workflows on a local Codex (GPT) backend, plus an interactive run viewer
+- [EvanZhouDev/openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free AI with your ChatGPT account
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
@@ -1331,6 +1366,15 @@
 
 ## others 
 
+- [thkimKETI/csi-sensing](https://github.com/thkimKETI/csi-sensing) - Real-time CSI sensing system for multi-device Wi-Fi signal processing, Butterworth-based filtering, and deep learning-based activity & location recognition with visual feedback.
+- [solusops/ResearchMateHackathon](https://github.com/solusops/ResearchMateHackathon) - Research-Mate is a prototypal app, built for OpenAI Build Week (-21 July). ResearchMate is an agentic research partner that pair-reads research papers alongside you and gets measurably better the long
+- [LimHyungTae/Awesome-PhD-CV](https://github.com/LimHyungTae/Awesome-PhD-CV) - Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants.
+- [ThorOdinson246/whatisit-nl2sh](https://github.com/ThorOdinson246/whatisit-nl2sh) - Local natural-language-to-shell command generator. A 941 MB fine-tuned Qwen2.5-Coder-1.5B running on CPU in ~1s.
+- [MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes) - A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions su
+- [RyanCargan/gte-pure-c](https://github.com/RyanCargan/gte-pure-c) - Pure C inference for the GTE Small embedding model
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
+- [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
 - [saccharomycetes/ActiveVision](https://github.com/saccharomycetes/ActiveVision) - 
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -1340,8 +1384,6 @@
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
 - [ginwind/VLA-JEPA](https://github.com/ginwind/VLA-JEPA) - [ECCV 2026] VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
-- [davidturturean/erdos-870](https://github.com/davidturturean/erdos-870) - Erdős Problem #870: paper and sorry-free, axiom-clean Lean 4 formalization.
 - [chinasatokolo/csGraduateApps](https://github.com/chinasatokolo/csGraduateApps) - A repository for compiling graduate application materials for prospective computer science graduate students (Masters & PhD).
 - [cjami/watch-my-escape](https://github.com/cjami/watch-my-escape) - Watch LLMs try to solve your handmade escape rooms.
 - [huggingface/ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
@@ -1352,12 +1394,10 @@
 - [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) - Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini.
 - [huggingface/physics-intern-skills](https://github.com/huggingface/physics-intern-skills) - Agentic framework for physics
 - [alaskahoffman/andstar](https://github.com/alaskahoffman/andstar) - a game engine for branching dialogue with RPG elements
-- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - Leetcode for Pytorch
 - [datavorous/spheni](https://github.com/datavorous/spheni) - Lightweight Vector Search Library focused on Memory Efficiency
 - [RLSTG/RLSTG](https://github.com/RLSTG/RLSTG) - [WWW 2026] Official implementation for Riemannian Liquid Spatio-Temporal Graph Network
 - [AHEKOT/ComfyUI_VNCCS](https://github.com/AHEKOT/ComfyUI_VNCCS) - Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
-- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [daaain/claude-code-log](https://github.com/daaain/claude-code-log) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown format.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1392,8 +1432,7 @@
 - [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load.
 - [Netflix/void-model](https://github.com/Netflix/void-model) - 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
-- [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration) - Configuration for my NixOS setup
+- [ilyamiro/serpantinum](https://github.com/ilyamiro/serpantinum) - A shell for wayland compositors
 - [vansh-nagar/ascii-studio](https://github.com/vansh-nagar/ascii-studio) - Turn Videos into ASCII Frames - real ascii frames (character-based frames that run smoothly in sequence)
 - [AgentBudget/agentbudget](https://github.com/AgentBudget/agentbudget) - AgentBudget is the ulimit for AI agents. Just like Unix systems have ulimit to prevent a single process from consuming all system resources, AgentBudget prevents a single agent session from consuming 
 - [CisMine/GPU-in-ML-DL](https://github.com/CisMine/GPU-in-ML-DL) - Apply GPU in ML and DL
@@ -1441,7 +1480,7 @@
 - [r-anime/flairsite](https://github.com/r-anime/flairsite) - Site for awarding and setting custom flairs
 - [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit) - VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 - [LauraAllObe/wakatimeReadmeStats](https://github.com/LauraAllObe/wakatimeReadmeStats) - Display your Wakatime or Github stats on your README! :)
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 263 stars and 195 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 265 stars and 192 forks 🌟
 - [stukennedy/irgo](https://github.com/stukennedy/irgo) - Native app development framework for mobile and desktop using Go and Datastar.
 - [rippletideco/rippletide](https://github.com/rippletideco/rippletide) - 📖 The starter kit for using Rippletide
 - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
@@ -1540,6 +1579,10 @@
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [digininja/DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 
+## portfolio 
+
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
+
 ## powershell 
 
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -1550,7 +1593,7 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec.
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 
 ## productivity 
 
@@ -1571,6 +1614,7 @@
 
 ## prompt-engineering 
 
+- [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) - Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
 - [Owl-Listener/designer-skills](https://github.com/Owl-Listener/designer-skills) - Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1583,6 +1627,7 @@
 
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -1614,19 +1659,19 @@
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [kmeanskaran/stock-agent-ops](https://github.com/kmeanskaran/stock-agent-ops) - Designing end-to-end weekly stock report generation using LSTM and Agentic AI. Deploying on AWS with MLOps practices.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [QWED-AI/qwed-verification](https://github.com/QWED-AI/qwed-verification) - A deterministic verification layer for AI systems.  QWED verifies AI outputs using mathematics, symbolic reasoning, and formal methods (Z3, SMT, SymPy), creating an auditable trust boundary for agenti
+- [QWED-AI/qwed-verification](https://github.com/QWED-AI/qwed-verification) - Open-source AI verification infrastructure for deterministic verification of LLM outputs, tool calls, code, schemas, and agent state before production execution.
 - [solusops/databoysu-readme-translator](https://github.com/solusops/databoysu-readme-translator) - Auto-translate your README.md into 20+ languages directly in GitHub Actions for 100% Local translation without needing any APIs! Includes smart chunking, hallucination checks, and auto-generated navig
 - [JLW-7/Wally](https://github.com/JLW-7/Wally) - Cute voice assistant built on ESP32 to help users with reminders, productivity, and daily conversations.
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
@@ -1657,6 +1702,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 - [rasbt/reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
+- [Exorust/TorchLeet](https://github.com/Exorust/TorchLeet) - LeetCode for PyTorch — 65 ML/AI interview problems from real interviews at Google, Meta, Anthropic. Jupyter notebooks, an auto-grader, and an MCP AI tutor.
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [zaina-ml/ml_forge](https://github.com/zaina-ml/ml_forge) - A visual-based graph node editor for training computer vision models.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
@@ -1686,7 +1732,7 @@
 
 - [xberg-io/html-to-markdown](https://github.com/xberg-io/html-to-markdown) - High performance and CommonMark compliant HTML to Markdown converter. Maintained by the Kreuzberg team. Kreuzberg is a fast, polyglot document intelligence engine with a Rust core. It extracts structu
 - [datallmhub/ragctl](https://github.com/datallmhub/ragctl) - A powerful CLI tool to manage, test, and optimize RAG pipelines. Streamline your Retrieval-Augmented Generation workflows from terminal.
-- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) - [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal devi
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
@@ -1710,7 +1756,7 @@
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [mental-os/Aurora-OS.js](https://github.com/mental-os/Aurora-OS.js) - Aurora OS.js — extensible web OS game and hacking simulator framework for developers and gamers. Virtual OS experience with scripting, apps, terminals & sandboxed gameplay, set in the mental.os() univ
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
 - [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 - [JLW-7/Milestone](https://github.com/JLW-7/Milestone) - Track your coding sessions, jot down progress notes, and generate structured dev logs (no backend yet)
@@ -1753,7 +1799,7 @@
 ## rust 
 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
@@ -1841,7 +1887,7 @@
 
 ## tailwindcss 
 
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
 - [whoisyurii/checkmygit](https://github.com/whoisyurii/checkmygit) - Visualize and share your Github profile in seconds!
 - [JLW-7/Milestone](https://github.com/JLW-7/Milestone) - Track your coding sessions, jot down progress notes, and generate structured dev logs (no backend yet)
@@ -1876,7 +1922,7 @@
 ## tui 
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [Feromond/budget_tracker_tui](https://github.com/Feromond/budget_tracker_tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
+- [Feromond/budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) - A TUI budget tracker app built in rust. Designed to track income and expenses and help visualize and gather basic insights from your transactions.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [brontoguana/ktop](https://github.com/brontoguana/ktop) - Terminal system resource monitor for hybrid LLM workloads
 
@@ -1884,10 +1930,11 @@
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [Altimis/Scweet](https://github.com/Altimis/Scweet) - Scrape tweets, profiles, followers and following from Twitter/X, no API key needed. Python library with smart multi-account pooling, proxy support and async.
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
 
 ## typescript 
 
+- [mex-memory/mex](https://github.com/mex-memory/mex) - Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
@@ -1919,7 +1966,7 @@
 ## ui-design 
 
 - [soufianekhiat/DearWidgets](https://github.com/soufianekhiat/DearWidgets) - DearWidgets
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## verilog 
 
@@ -1938,6 +1985,7 @@
 
 ## visualization 
 
+- [scasella/claude-dynamic-workflows-codex](https://github.com/scasella/claude-dynamic-workflows-codex) - Run Claude Code dynamic workflows on a local Codex (GPT) backend, plus an interactive run viewer
 - [beltromatti/get-it](https://github.com/beltromatti/get-it) - Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track.
 
 ## vue 
@@ -1986,13 +2034,14 @@
 
 ## workflow 
 
+- [scasella/claude-dynamic-workflows-codex](https://github.com/scasella/claude-dynamic-workflows-codex) - Run Claude Code dynamic workflows on a local Codex (GPT) backend, plus an interactive run viewer
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## youtube 
 
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
 - [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art t
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
