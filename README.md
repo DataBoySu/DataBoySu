@@ -227,15 +227,15 @@ Wish you a good-looking profile README!
 </picture></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.52%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌆 Daytime                1802 commits        █████████░░░░░░░░░░░░░░░░   35.28 % 
-🌃 Evening                2264 commits        ███████████░░░░░░░░░░░░░░   44.32 % 
-🌙 Night                  487 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+🌞 Morning                570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+🌆 Daytime                1817 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
+🌃 Evening                2292 commits        ███████████░░░░░░░░░░░░░░   44.25 % 
+🌙 Night                  501 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 ```
 
 
@@ -243,15 +243,15 @@ Wish you a good-looking profile README!
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.37 % 
-TeX                      2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-JavaScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Git Config               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+TeX                      3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Markdown                 3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Git Config               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 
- Last Updated on 30/08/2026 22:28:50 UTC
+ Last Updated on 06/09/2026 22:02:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
